@@ -1,0 +1,65 @@
+.about-container
+  max-width: 600px
+  margin: 0 auto
+  padding: 50px 0
+
+  .about-section-title
+    text-align: center
+    margin-top: 0
+    padding-bottom: 50px
+
+  .about-wrapper-1
+
+    .about-lockup
+      width: 50%
+      float: left
+      text-align: center
+
+      .face-img
+        border-radius: 50%
+        background:
+          size: cover
+          position: center
+          image: url(/assets/img/face.jpg)
+        +size(200px)
+
+      .about-title-wrapper
+        padding-top: 30px
+        width: 200px
+
+        .about-title
+          font-family: $font-family-header
+          font-size: 24px
+
+        .about-subtitle
+          font-weight: 100
+
+    .about-blurb
+      width: 50%
+      float: right
+      margin-top: -5px
+
+  .about-wrapper-2
+    padding-top: 50px
+    clear: both
+
+    .about-interests
+      max-width: 200px
+      margin: 0 auto
+      text-align: center
+      font:
+        size: 18px
+        family: $font-family-header
+
+    .about-interests-links
+      margin-top: 30px
+      +display(flex)
+      +justify-content(space-around)
+      +align-items(center)
+
+      a
+        display: inline-block
+        box-shadow: 0 3px 8px $border-color
+        font-size: 24px
+        padding: 20px 30px
+        border: 3px solid $primary-color
