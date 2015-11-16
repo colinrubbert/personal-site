@@ -2,11 +2,12 @@ header
   box-shadow: 0 2px 8px $border-color
 
   .nav-container
-    max-width: 600px
+    max-width: 800px
     height: 100px
     margin: 0 auto
 
-    nav
+    // Desktop Navigation
+    .site-nav
       float: right
       padding: 40px 30px 0 0
 
@@ -16,8 +17,7 @@ header
         margin-left: 20px
 
         &:hover
-          color: $secondary-color
-          text-decoration: underline
+          border-bottom: 3px solid $accent-light-color
 
     .brand
       float: left
@@ -27,3 +27,81 @@ header
         size: 24px
       line-height: 60px
       letter-spacing: 1px
+
+    // Mobile Toggle
+    .mobile-nav-toggle
+      display: none
+      width: 50px
+      height: 50px
+      float: right
+      margin: 25px 20px 0 0
+      align-items: center
+      cursor:pointer
+
+      &:selection
+        background: transparent
+
+      &:-moz-selection
+        background: transparent
+
+      span,
+      span:before,
+      span:after
+        content: ""
+        display: block
+        height: 2px
+        width: 100%
+        background: $primary-color
+        position: relative
+
+        transition: all 0.3s ease-in-out
+
+      span:before
+        top: 15px
+
+      span:after
+        top: -17px
+
+      &.is-open span
+        background: transparent
+
+      &.is-open span:before,
+      &.is-open span:after
+        transform-origin: center
+        transform: rotate(45deg)
+        top: 0
+
+      &.is-open span:before
+        transform: rotate(-45deg)
+
+.mobile-nav
+  position: absolute
+  width: 100%
+  background: $bg-color
+  padding: 30px 0 20px
+  transform: translateY(-100%)
+  transition: all 0.3s ease-in-out
+
+  a
+    display: block
+    text-align: center
+    font-size: 24px
+    padding-bottom: 10px
+
+    &:hover
+      color: $accent-light-color
+
+@media (max-width: 768px)
+  header
+
+    .nav-container
+
+      .site-nav
+        display: none
+
+      .mobile-nav-toggle
+        display: flex
+
+  .mobile-nav.is-open
+    display: block
+    transform: translateY(0%)

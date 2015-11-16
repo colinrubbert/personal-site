@@ -1,0 +1,31 @@
+footer
+
+  .nav-container
+    max-width: 800px
+    height: 100px
+    margin: 0 auto
+
+    nav
+      float: right
+      padding: 40px 30px 0 0
+
+      a
+        color: $primary-color
+        display: inline-block
+        margin-left: 20px
+
+        &:hover
+          border-bottom: 3px solid $accent-light-color
+
+    .brand
+      float: left
+      padding: 20px 0 0 30px
+      font:
+        family: $font-family-header
+        size: 24px
+      line-height: 60px
+      letter-spacing: 1px
+
+@media (max-width: 768px)
+  .site-nav
+    display: none

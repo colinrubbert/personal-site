@@ -262,19 +262,18 @@ hr {
 header {
   box-shadow: 0 2px 8px #aaa; }
   header .nav-container {
-    max-width: 600px;
+    max-width: 800px;
     height: 100px;
     margin: 0 auto; }
-    header .nav-container nav {
+    header .nav-container .site-nav {
       float: right;
       padding: 40px 30px 0 0; }
-      header .nav-container nav a {
+      header .nav-container .site-nav a {
         color: #6699CC;
         display: inline-block;
         margin-left: 20px; }
-        header .nav-container nav a:hover {
-          color: #336699;
-          text-decoration: underline; }
+        header .nav-container .site-nav a:hover {
+          border-bottom: 3px solid #FF9999; }
     header .nav-container .brand {
       float: left;
       padding: 20px 0 0 30px;
@@ -282,9 +281,66 @@ header {
       font-size: 24px;
       line-height: 60px;
       letter-spacing: 1px; }
+    header .nav-container .mobile-nav-toggle {
+      display: none;
+      width: 50px;
+      height: 50px;
+      float: right;
+      margin: 25px 20px 0 0;
+      align-items: center; }
+      header .nav-container .mobile-nav-toggle:selection {
+        background: transparent; }
+      header .nav-container .mobile-nav-toggle:-moz-selection {
+        background: transparent; }
+      header .nav-container .mobile-nav-toggle span,
+      header .nav-container .mobile-nav-toggle span:before,
+      header .nav-container .mobile-nav-toggle span:after {
+        content: "";
+        display: block;
+        height: 2px;
+        width: 100%;
+        background: #6699CC;
+        position: relative;
+        transition: all 0.3s ease-in-out; }
+      header .nav-container .mobile-nav-toggle span:before {
+        top: 15px; }
+      header .nav-container .mobile-nav-toggle span:after {
+        top: -17px; }
+      header .nav-container .mobile-nav-toggle.is-open span {
+        background: transparent; }
+      header .nav-container .mobile-nav-toggle.is-open span:before, header .nav-container .mobile-nav-toggle.is-open span:after {
+        transform-origin: center;
+        transform: rotate(45deg);
+        top: 0; }
+      header .nav-container .mobile-nav-toggle.is-open span:before {
+        transform: rotate(-45deg); }
 
+.mobile-nav {
+  position: absolute;
+  width: 100%;
+  background: #fff;
+  padding: 30px 0 20px;
+  transform: translateY(-100%);
+  transition: all 0.3s ease-in-out; }
+  .mobile-nav a {
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 10px; }
+    .mobile-nav a:hover {
+      color: #FF9999; }
+
+@media (max-width: 768px) {
+  header .nav-container .site-nav {
+    display: none; }
+  header .nav-container .mobile-nav-toggle {
+    display: flex; }
+
+  .mobile-nav.is-open {
+    display: block;
+    transform: translateY(0%); } }
 .about-container {
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 50px 0; }
   .about-container .about-section-title {
@@ -296,6 +352,7 @@ header {
     float: left;
     text-align: center; }
     .about-container .about-wrapper-1 .about-lockup .face-img {
+      margin: 0 auto;
       border-radius: 50%;
       background-size: cover;
       background-position: center;
@@ -303,6 +360,7 @@ header {
       height: 200px;
       width: 200px; }
     .about-container .about-wrapper-1 .about-lockup .about-title-wrapper {
+      margin: 0 auto;
       padding-top: 30px;
       width: 200px; }
       .about-container .about-wrapper-1 .about-lockup .about-title-wrapper .about-title {
@@ -356,11 +414,13 @@ header {
         font-size: 24px;
         padding: 20px 30px;
         border: 3px solid #6699CC; }
+        .about-container .about-wrapper-2 .about-interests-links a:hover {
+          color: #FF6666; }
 
 .contact {
   background: #6699CC; }
   .contact .contact-container {
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 50px 0;
     color: #fff; }
@@ -369,14 +429,12 @@ header {
       font-size: 24px;
       font-family: "Bree Serif", sans-serif; }
     .contact .contact-container form {
-      max-width: 400px;
+      max-width: 600px;
       margin: 0 auto;
       padding-top: 20px; }
       .contact .contact-container form input, .contact .contact-container form textarea {
         border: 2px solid #6699CC;
         width: 100%;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
         box-sizing: border-box;
         padding: 10px; }
         .contact .contact-container form input:focus, .contact .contact-container form textarea:focus {
@@ -399,8 +457,6 @@ header {
       .contact .contact-container form .contact-info-group label {
         width: 50%;
         float: left;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
         box-sizing: border-box; }
         .contact .contact-container form .contact-info-group label:nth-child(1) {
           padding-right: 10px; }
@@ -413,3 +469,28 @@ header {
         margin-bottom: 20px; }
         .contact .contact-container form label span {
           display: block; }
+
+footer .nav-container {
+  max-width: 800px;
+  height: 100px;
+  margin: 0 auto; }
+  footer .nav-container nav {
+    float: right;
+    padding: 40px 30px 0 0; }
+    footer .nav-container nav a {
+      color: #6699CC;
+      display: inline-block;
+      margin-left: 20px; }
+      footer .nav-container nav a:hover {
+        border-bottom: 3px solid #FF9999; }
+  footer .nav-container .brand {
+    float: left;
+    padding: 20px 0 0 30px;
+    font-family: "Bree Serif", sans-serif;
+    font-size: 24px;
+    line-height: 60px;
+    letter-spacing: 1px; }
+
+@media (max-width: 768px) {
+  .site-nav {
+    display: none; } }
