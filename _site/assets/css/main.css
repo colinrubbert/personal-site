@@ -544,32 +544,17 @@ header {
       font-style: none; }
   .photography-container .photography-grid {
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
     margin: 0 auto; }
     .photography-container .photography-grid .thumb-unit {
-      margin: 0 auto;
-      padding: 0 10px; }
+      flex: auto;
+      margin: 0 10px;
+      width: 30%;
+      justify-content: center;
+      align-self: center; }
       .photography-container .photography-grid .thumb-unit img {
-        -webkit-box-pack: justify;
-        -moz-box-pack: justify;
-        box-pack: justify;
-        -webkit-justify-content: space-between;
-        -moz-justify-content: space-between;
-        -ms-justify-content: space-between;
-        -o-justify-content: space-between;
-        justify-content: space-between;
-        -ms-flex-pack: justify;
-        -webkit-box-align: center;
-        -moz-box-align: center;
-        box-align: center;
-        -webkit-align-items: center;
-        -moz-align-items: center;
-        -ms-align-items: center;
-        -o-align-items: center;
-        align-items: center;
-        -ms-flex-align: center;
-        height: 225px;
-        width: 225px; }
+        width: 100%;
+        height: auto; }
 
 footer .nav-container {
   max-width: 800px;

@@ -23,27 +23,16 @@
 
   .photography-grid
     display: flex
-    flex-wrap: wrap
+    flex-flow: row wrap
     margin: 0 auto
 
-    // .thumb-unit
-    //   // flex-wrap: wrap
-    //   // display: flex
-    //   overflow: hidden
-    //   width: 200px
-    //   height: 100px
-    //   margin: 0 10px 20px
-    //   background:
-    //     position: center center
-    //     repeat: no-repeat
-    //     size: cover
-    //   cursor: pointer
-
     .thumb-unit
-      margin: 0 auto
-      padding: 0 10px
+      flex: auto
+      margin: 0 10px
+      width: 30%
+      justify-content: center
+      align-self: center
 
       img
-        +justify-content(space-between)
-        +align-items(center)
-        +size(225px)
+        width: 100%
+        height: auto
