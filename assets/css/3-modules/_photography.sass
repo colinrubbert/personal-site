@@ -1,0 +1,37 @@
+.photography-container
+  max-width: 800px
+  margin: 0 auto
+  padding: 50px 0
+
+  .photography-section-title
+    text-align: center
+    margin-top: 0
+    padding-bottom: 50px
+
+  .photography-category
+    font-size: 18px
+    padding-bottom: 50px
+    +display(flex)
+    +justify-content(space-around)
+    +align-items(center)
+
+    a
+      font-style: none
+      //
+      // &:hover
+      //   border-bottom: 3px solid $accent-light-color
+
+  .photography-grid
+    +display(flex)
+    +justify-content(space-around)
+    +align-items(center)
+
+    .thumb-unit
+      display: block
+      overflow: hidden
+      width: 200px
+      height: 100px
+      background:
+        position: center center
+        repeat: no-repeat
+        size: cover
