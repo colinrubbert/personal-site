@@ -319,7 +319,7 @@ header {
   position: absolute;
   width: 100%;
   background: #fff;
-  padding: 30px 0 20px;
+  padding: 60px 0 20px;
   transform: translateY(-100%);
   transition: all 0.3s ease-in-out; }
   .mobile-nav a {
@@ -417,6 +417,31 @@ header {
         .about-container .about-wrapper-2 .about-interests-links a:hover {
           color: #FF6666; }
 
+@media (max-width: 768px) {
+  .about-container {
+    width: auto;
+    margin: 0 30px; }
+    .about-container .about-wrapper-1 .about-lockup {
+      width: 100%;
+      float: none; }
+      .about-container .about-wrapper-1 .about-lockup .about-subtitle {
+        padding-bottom: 30px; }
+    .about-container .about-wrapper-1 .about-blurb {
+      width: 100%;
+      float: none;
+      padding: 0 10px;
+      text-align: center; }
+    .about-container .about-wrapper-2 {
+      padding-top: 50px;
+      clear: both; }
+      .about-container .about-wrapper-2 .about-interests-links {
+        margin-top: 30px;
+        display: block; }
+        .about-container .about-wrapper-2 .about-interests-links a {
+          max-width: 200px;
+          margin: 0 auto 10px;
+          display: block;
+          text-align: center; } }
 .contact {
   background: #6699CC; }
   .contact .contact-container {
@@ -429,7 +454,7 @@ header {
       font-size: 24px;
       font-family: "Bree Serif", sans-serif; }
     .contact .contact-container form {
-      max-width: 600px;
+      width: 600px;
       margin: 0 auto;
       padding-top: 20px; }
       .contact .contact-container form input, .contact .contact-container form textarea {
@@ -470,6 +495,15 @@ header {
         .contact .contact-container form label span {
           display: block; }
 
+@media (max-width: 768px) {
+  .contact-wrapper {
+    width: auto; }
+    .contact-wrapper .form {
+      display: flex;
+      width: 90%;
+      margin: 0 auto; }
+      .contact-wrapper .form form {
+        width: 100%; } }
 footer .nav-container {
   max-width: 800px;
   height: 100px;

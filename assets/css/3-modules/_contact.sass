@@ -14,7 +14,7 @@
         family: $font-family-header
 
     form
-      max-width: 600px
+      width: 600px
       margin: 0 auto
       padding-top: 20px
 
@@ -68,3 +68,15 @@
 
         span
           display: block
+
+@media (max-width: 768px)
+  .contact-wrapper
+    width: auto
+
+    .form
+      display: flex
+      width: 90%
+      margin: 0 auto
+
+      form
+        width: 100%
