@@ -18,6 +18,7 @@ function mobileNav() {
 // Function for fancyBox implementation
 function fancyBox() {
   $('.fancybox-thumb').fancybox ({
+    padding: 0,
     prevEffect: 'none',
     nextEffect: 'none',
     helpers: {

@@ -556,6 +556,9 @@ header {
         width: 100%;
         height: auto; }
 
+.fancybox-skin {
+  background: transparent; }
+
 footer .nav-container {
   max-width: 800px;
   height: 100px;
