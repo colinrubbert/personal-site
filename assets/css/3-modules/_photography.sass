@@ -22,16 +22,28 @@
       //   border-bottom: 3px solid $accent-light-color
 
   .photography-grid
-    +display(flex)
-    +justify-content(space-around)
-    +align-items(center)
+    display: flex
+    flex-wrap: wrap
+    margin: 0 auto
+
+    // .thumb-unit
+    //   // flex-wrap: wrap
+    //   // display: flex
+    //   overflow: hidden
+    //   width: 200px
+    //   height: 100px
+    //   margin: 0 10px 20px
+    //   background:
+    //     position: center center
+    //     repeat: no-repeat
+    //     size: cover
+    //   cursor: pointer
 
     .thumb-unit
-      display: block
-      overflow: hidden
-      width: 200px
-      height: 100px
-      background:
-        position: center center
-        repeat: no-repeat
-        size: cover
+      margin: 0 auto
+      padding: 0 10px
+
+      img
+        +justify-content(space-between)
+        +align-items(center)
+        +size(225px)

@@ -1,0 +1,47 @@
+# ---- People Gallery ---- #
+
+images:
+- name: places-0.jpg
+- name: places-1.jpg
+- name: places-2.jpg
+- name: places-3.jpg
+- name: places-4.jpg
+- name: places-5.jpg
+- name: places-6.jpg
+- name: places-7.jpg
+- name: places-8.jpg
+- name: places-9.jpg
+- name: places-10.jpg
+- name: places-11.jpg
+
+# ---- Places Gallery ---- #
+
+places_images:
+- name: places-0.jpg
+- name: places-1.jpg
+- name: places-2.jpg
+- name: places-3.jpg
+- name: places-4.jpg
+- name: places-5.jpg
+- name: places-6.jpg
+- name: places-7.jpg
+- name: places-8.jpg
+- name: places-9.jpg
+- name: places-10.jpg
+- name: places-11.jpg
+
+# ---- Things Gallery ---- #
+
+things_images:
+- name: things-0.jpg
+- name: things-1.jpg
+- name: things-2.jpg
+- name: things-3.jpg
+- name: things-4.jpg
+- name: things-5.jpg
+- name: things-6.jpg
+- name: things-7.jpg
+- name: things-8.jpg
+- name: things-9.jpg
+- name: things-10.jpg
+- name: things-11.jpg

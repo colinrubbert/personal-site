@@ -11,18 +11,13 @@
     </div>
 
     <div class="photography-grid">
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-0.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-1.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-2.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-3.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-4.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-5.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-6.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-7.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-8.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-9.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-10.jpg)"></div>
-      <div class="thumb-unit" style="background-image: url({{ site.baseurl }}/assets/img/compressed/places/places-11.jpg)"></div>
+      {% for image in site.data.galleries.places_images %}
+        <div class="thumb-unit">
+          <a class="fancybox-thumb" rel="fancybox-thumb" href="{{ site.baseurl }}/assets/img/compressed/places/{{ image.name }}">
+            <img src="{{ site.baseurl }}/assets/img/compressed/places/{{ image.name }}" />
+          </a>
+        </div>
+      {% endfor %}
     </div>
 
     <div class="photography-controls"></div>
