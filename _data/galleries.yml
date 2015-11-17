@@ -17,18 +17,18 @@ images:
 # ---- Places Gallery ---- #
 
 places_images:
-- name: places-0.jpg
-- name: places-1.jpg
-- name: places-2.jpg
-- name: places-3.jpg
-- name: places-4.jpg
-- name: places-5.jpg
-- name: places-6.jpg
-- name: places-7.jpg
-- name: places-8.jpg
-- name: places-9.jpg
-- name: places-10.jpg
-- name: places-11.jpg
+- { name: places-0.jpg, thumb: places-thumb-0.jpg }
+- { name: places-1.jpg, thumb: places-thumb-1.jpg }
+- { name: places-2.jpg, thumb: places-thumb-2.jpg }
+- { name: places-3.jpg, thumb: places-thumb-3.jpg }
+- { name: places-4.jpg, thumb: places-thumb-4.jpg }
+- { name: places-5.jpg, thumb: places-thumb-5.jpg }
+- { name: places-6.jpg, thumb: places-thumb-6.jpg }
+- { name: places-7.jpg, thumb: places-thumb-7.jpg }
+- { name: places-8.jpg, thumb: places-thumb-8.jpg }
+- { name: places-9.jpg, thumb: places-thumb-9.jpg }
+- { name: places-10.jpg, thumb: places-thumb-10.jpg }
+- { name: places-11.jpg, thumb: places-thumb-11.jpg }
 
 # ---- Things Gallery ---- #
 
