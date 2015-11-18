@@ -1,47 +1,220 @@
 # ---- People Gallery ---- #
 
 images:
-- name: places-0.jpg
-- name: places-1.jpg
-- name: places-2.jpg
-- name: places-3.jpg
-- name: places-4.jpg
-- name: places-5.jpg
-- name: places-6.jpg
-- name: places-7.jpg
-- name: places-8.jpg
-- name: places-9.jpg
-- name: places-10.jpg
-- name: places-11.jpg
+- { name: people-0.jpg, thumb: people-0-thumb.jpg }
+- { name: people-1.jpg, thumb: people-1-thumb.jpg }
+- { name: people-2.jpg, thumb: people-2-thumb.jpg }
+- { name: people-3.jpg, thumb: people-3-thumb.jpg }
+- { name: people-4.jpg, thumb: people-4-thumb.jpg }
+- { name: people-5.jpg, thumb: people-5-thumb.jpg }
+- { name: people-6.jpg, thumb: people-6-thumb.jpg }
+- { name: people-7.jpg, thumb: people-7-thumb.jpg }
+- { name: people-8.jpg, thumb: people-8-thumb.jpg }
+- { name: people-9.jpg, thumb: people-9-thumb.jpg }
+- { name: people-10.jpg, thumb: people-10-thumb.jpg }
+- { name: people-11.jpg, thumb: people-11-thumb.jpg }
+- { name: people-22.jpg, thumb: people-22-thumb.jpg }
+- { name: people-23.jpg, thumb: people-23-thumb.jpg }
+- { name: people-24.jpg, thumb: people-24-thumb.jpg }
+- { name: people-25.jpg, thumb: people-25-thumb.jpg }
+- { name: people-26.jpg, thumb: people-26-thumb.jpg }
+- { name: people-27.jpg, thumb: people-27-thumb.jpg }
+- { name: people-28.jpg, thumb: people-28-thumb.jpg }
+- { name: people-29.jpg, thumb: people-29-thumb.jpg }
+- { name: people-30.jpg, thumb: people-30-thumb.jpg }
+- { name: people-31.jpg, thumb: people-31-thumb.jpg }
+- { name: people-32.jpg, thumb: people-32-thumb.jpg }
+- { name: people-33.jpg, thumb: people-33-thumb.jpg }
+- { name: people-34.jpg, thumb: people-34-thumb.jpg }
+- { name: people-35.jpg, thumb: people-35-thumb.jpg }
+- { name: people-36.jpg, thumb: people-36-thumb.jpg }
+- { name: people-37.jpg, thumb: people-37-thumb.jpg }
+- { name: people-38.jpg, thumb: people-38-thumb.jpg }
+- { name: people-39.jpg, thumb: people-39-thumb.jpg }
+- { name: people-40.jpg, thumb: people-40-thumb.jpg }
+- { name: people-41.jpg, thumb: people-41-thumb.jpg }
+- { name: people-42.jpg, thumb: people-42-thumb.jpg }
+- { name: people-43.jpg, thumb: people-43-thumb.jpg }
+- { name: people-44.jpg, thumb: people-44-thumb.jpg }
+- { name: people-45.jpg, thumb: people-45-thumb.jpg }
+- { name: people-46.jpg, thumb: people-46-thumb.jpg }
+- { name: people-47.jpg, thumb: people-47-thumb.jpg }
+- { name: people-48.jpg, thumb: people-48-thumb.jpg }
+- { name: people-49.jpg, thumb: people-49-thumb.jpg }
+- { name: people-50.jpg, thumb: people-50-thumb.jpg }
+- { name: people-51.jpg, thumb: people-51-thumb.jpg }
+- { name: people-52.jpg, thumb: people-52-thumb.jpg }
+- { name: people-53.jpg, thumb: people-53-thumb.jpg }
+- { name: people-54.jpg, thumb: people-54-thumb.jpg }
+- { name: people-55.jpg, thumb: people-55-thumb.jpg }
+- { name: people-56.jpg, thumb: people-56-thumb.jpg }
+- { name: people-57.jpg, thumb: people-57-thumb.jpg }
+- { name: people-58.jpg, thumb: people-58-thumb.jpg }
+- { name: people-59.jpg, thumb: people-59-thumb.jpg }
+- { name: people-60.jpg, thumb: people-60-thumb.jpg }
+- { name: people-61.jpg, thumb: people-61-thumb.jpg }
+- { name: people-62.jpg, thumb: people-62-thumb.jpg }
+- { name: people-63.jpg, thumb: people-63-thumb.jpg }
+- { name: people-64.jpg, thumb: people-64-thumb.jpg }
+- { name: people-65.jpg, thumb: people-65-thumb.jpg }
+- { name: people-66.jpg, thumb: people-66-thumb.jpg }
+- { name: people-67.jpg, thumb: people-67-thumb.jpg }
+- { name: people-68.jpg, thumb: people-68-thumb.jpg }
+- { name: people-69.jpg, thumb: people-69-thumb.jpg }
+- { name: people-70.jpg, thumb: people-70-thumb.jpg }
+- { name: people-71.jpg, thumb: people-71-thumb.jpg }
+- { name: people-72.jpg, thumb: people-72-thumb.jpg }
 
 # ---- Places Gallery ---- #
 
 places_images:
-- { name: places-0.jpg, thumb: places-thumb-0.jpg }
-- { name: places-1.jpg, thumb: places-thumb-1.jpg }
-- { name: places-2.jpg, thumb: places-thumb-2.jpg }
-- { name: places-3.jpg, thumb: places-thumb-3.jpg }
-- { name: places-4.jpg, thumb: places-thumb-4.jpg }
-- { name: places-5.jpg, thumb: places-thumb-5.jpg }
-- { name: places-6.jpg, thumb: places-thumb-6.jpg }
-- { name: places-7.jpg, thumb: places-thumb-7.jpg }
-- { name: places-8.jpg, thumb: places-thumb-8.jpg }
-- { name: places-9.jpg, thumb: places-thumb-9.jpg }
-- { name: places-10.jpg, thumb: places-thumb-10.jpg }
-- { name: places-11.jpg, thumb: places-thumb-11.jpg }
+- { name: places-0.jpg, thumb: places-0-thumb.jpg }
+- { name: places-1.jpg, thumb: places-1-thumb.jpg }
+- { name: places-2.jpg, thumb: places-2-thumb.jpg }
+- { name: places-3.jpg, thumb: places-3-thumb.jpg }
+- { name: places-4.jpg, thumb: places-4-thumb.jpg }
+- { name: places-5.jpg, thumb: places-5-thumb.jpg }
+- { name: places-6.jpg, thumb: places-6-thumb.jpg }
+- { name: places-7.jpg, thumb: places-7-thumb.jpg }
+- { name: places-8.jpg, thumb: places-8-thumb.jpg }
+- { name: places-9.jpg, thumb: places-9-thumb.jpg }
+- { name: places-10.jpg, thumb: places-10-thumb.jpg }
+- { name: places-11.jpg, thumb: places-11-thumb.jpg }
+- { name: places-22.jpg, thumb: places-22-thumb.jpg }
+- { name: places-23.jpg, thumb: places-23-thumb.jpg }
+- { name: places-24.jpg, thumb: places-24-thumb.jpg }
+- { name: places-25.jpg, thumb: places-25-thumb.jpg }
+- { name: places-26.jpg, thumb: places-26-thumb.jpg }
+- { name: places-27.jpg, thumb: places-27-thumb.jpg }
+- { name: places-28.jpg, thumb: places-28-thumb.jpg }
+- { name: places-29.jpg, thumb: places-29-thumb.jpg }
+- { name: places-30.jpg, thumb: places-30-thumb.jpg }
+- { name: places-31.jpg, thumb: places-31-thumb.jpg }
+- { name: places-32.jpg, thumb: places-32-thumb.jpg }
+- { name: places-33.jpg, thumb: places-33-thumb.jpg }
+- { name: places-34.jpg, thumb: places-34-thumb.jpg }
+- { name: places-35.jpg, thumb: places-35-thumb.jpg }
+- { name: places-36.jpg, thumb: places-36-thumb.jpg }
+- { name: places-37.jpg, thumb: places-37-thumb.jpg }
+- { name: places-38.jpg, thumb: places-38-thumb.jpg }
+- { name: places-39.jpg, thumb: places-39-thumb.jpg }
+- { name: places-40.jpg, thumb: places-40-thumb.jpg }
+- { name: places-41.jpg, thumb: places-41-thumb.jpg }
+- { name: places-42.jpg, thumb: places-42-thumb.jpg }
+- { name: places-43.jpg, thumb: places-43-thumb.jpg }
+- { name: places-44.jpg, thumb: places-44-thumb.jpg }
+- { name: places-45.jpg, thumb: places-45-thumb.jpg }
+- { name: places-46.jpg, thumb: places-46-thumb.jpg }
+- { name: places-47.jpg, thumb: places-47-thumb.jpg }
+- { name: places-48.jpg, thumb: places-48-thumb.jpg }
+- { name: places-49.jpg, thumb: places-49-thumb.jpg }
+- { name: places-50.jpg, thumb: places-50-thumb.jpg }
+- { name: places-51.jpg, thumb: places-51-thumb.jpg }
+- { name: places-52.jpg, thumb: places-52-thumb.jpg }
+- { name: places-53.jpg, thumb: places-53-thumb.jpg }
+- { name: places-54.jpg, thumb: places-54-thumb.jpg }
+- { name: places-55.jpg, thumb: places-55-thumb.jpg }
+- { name: places-56.jpg, thumb: places-56-thumb.jpg }
+- { name: places-57.jpg, thumb: places-57-thumb.jpg }
+- { name: places-58.jpg, thumb: places-58-thumb.jpg }
+- { name: places-59.jpg, thumb: places-59-thumb.jpg }
+- { name: places-60.jpg, thumb: places-60-thumb.jpg }
+- { name: places-61.jpg, thumb: places-61-thumb.jpg }
+- { name: places-62.jpg, thumb: places-62-thumb.jpg }
+- { name: places-63.jpg, thumb: places-63-thumb.jpg }
+- { name: places-64.jpg, thumb: places-64-thumb.jpg }
+- { name: places-65.jpg, thumb: places-65-thumb.jpg }
+- { name: places-66.jpg, thumb: places-66-thumb.jpg }
+- { name: places-67.jpg, thumb: places-67-thumb.jpg }
+- { name: places-68.jpg, thumb: places-68-thumb.jpg }
+- { name: places-69.jpg, thumb: places-69-thumb.jpg }
+- { name: places-70.jpg, thumb: places-70-thumb.jpg }
+- { name: places-71.jpg, thumb: places-71-thumb.jpg }
+- { name: places-72.jpg, thumb: places-72-thumb.jpg }
+- { name: places-73.jpg, thumb: places-73-thumb.jpg }
+- { name: places-74.jpg, thumb: places-74-thumb.jpg }
+- { name: places-75.jpg, thumb: places-75-thumb.jpg }
+- { name: places-76.jpg, thumb: places-76-thumb.jpg }
+- { name: places-77.jpg, thumb: places-77-thumb.jpg }
+- { name: places-78.jpg, thumb: places-78-thumb.jpg }
+- { name: places-79.jpg, thumb: places-79-thumb.jpg }
+- { name: places-80.jpg, thumb: places-80-thumb.jpg }
+- { name: places-81.jpg, thumb: places-81-thumb.jpg }
+- { name: places-82.jpg, thumb: places-82-thumb.jpg }
+- { name: places-83.jpg, thumb: places-83-thumb.jpg }
+- { name: places-84.jpg, thumb: places-84-thumb.jpg }
+- { name: places-85.jpg, thumb: places-85-thumb.jpg }
+- { name: places-86.jpg, thumb: places-86-thumb.jpg }
+- { name: places-87.jpg, thumb: places-87-thumb.jpg }
+- { name: places-88.jpg, thumb: places-88-thumb.jpg }
+- { name: places-89.jpg, thumb: places-89-thumb.jpg }
+- { name: places-90.jpg, thumb: places-90-thumb.jpg }
+- { name: places-91.jpg, thumb: places-91-thumb.jpg }
+- { name: places-92.jpg, thumb: places-92-thumb.jpg }
+- { name: places-93.jpg, thumb: places-93-thumb.jpg }
+- { name: places-94.jpg, thumb: places-94-thumb.jpg }
+- { name: places-95.jpg, thumb: places-95-thumb.jpg }
+- { name: places-96.jpg, thumb: places-96-thumb.jpg }
+- { name: places-97.jpg, thumb: places-97-thumb.jpg }
+- { name: places-98.jpg, thumb: places-98-thumb.jpg }
+- { name: places-99.jpg, thumb: places-99-thumb.jpg }
+- { name: places-100.jpg, thumb: places-100-thumb.jpg }
+- { name: places-101.jpg, thumb: places-101-thumb.jpg }
+- { name: places-102.jpg, thumb: places-102-thumb.jpg }
+- { name: places-103.jpg, thumb: places-103-thumb.jpg }
+- { name: places-104.jpg, thumb: places-104-thumb.jpg }
+- { name: places-105.jpg, thumb: places-105-thumb.jpg }
+- { name: places-106.jpg, thumb: places-106-thumb.jpg }
+- { name: places-107.jpg, thumb: places-107-thumb.jpg }
+- { name: places-108.jpg, thumb: places-108-thumb.jpg }
+- { name: places-109.jpg, thumb: places-109-thumb.jpg }
+- { name: places-120.jpg, thumb: places-120-thumb.jpg }
+- { name: places-121.jpg, thumb: places-121-thumb.jpg }
+- { name: places-122.jpg, thumb: places-122-thumb.jpg }
+- { name: places-123.jpg, thumb: places-123-thumb.jpg }
+- { name: places-124.jpg, thumb: places-124-thumb.jpg }
+- { name: places-125.jpg, thumb: places-125-thumb.jpg }
+- { name: places-126.jpg, thumb: places-126-thumb.jpg }
+- { name: places-127.jpg, thumb: places-127-thumb.jpg }
+- { name: places-128.jpg, thumb: places-128-thumb.jpg }
+- { name: places-129.jpg, thumb: places-129-thumb.jpg }
+- { name: places-130.jpg, thumb: places-130-thumb.jpg }
+- { name: places-131.jpg, thumb: places-131-thumb.jpg }
+- { name: places-132.jpg, thumb: places-132-thumb.jpg }
+- { name: places-133.jpg, thumb: places-133-thumb.jpg }
+- { name: places-134.jpg, thumb: places-134-thumb.jpg }
+- { name: places-135.jpg, thumb: places-135-thumb.jpg }
+- { name: places-136.jpg, thumb: places-136-thumb.jpg }
+- { name: places-137.jpg, thumb: places-137-thumb.jpg }
+- { name: places-138.jpg, thumb: places-138-thumb.jpg }
+- { name: places-139.jpg, thumb: places-139-thumb.jpg }
+- { name: places-140.jpg, thumb: places-140-thumb.jpg }
+- { name: places-141.jpg, thumb: places-141-thumb.jpg }
+- { name: places-142.jpg, thumb: places-142-thumb.jpg }
 
 # ---- Things Gallery ---- #
 
 things_images:
-- name: things-0.jpg
-- name: things-1.jpg
-- name: things-2.jpg
-- name: things-3.jpg
-- name: things-4.jpg
-- name: things-5.jpg
-- name: things-6.jpg
-- name: things-7.jpg
-- name: things-8.jpg
-- name: things-9.jpg
-- name: things-10.jpg
-- name: things-11.jpg
+- { name: things-0.jpg, thumb: things-0-thumb.jpg }
+- { name: things-1.jpg, thumb: things-1-thumb.jpg }
+- { name: things-2.jpg, thumb: things-2-thumb.jpg }
+- { name: things-3.jpg, thumb: things-3-thumb.jpg }
+- { name: things-4.jpg, thumb: things-4-thumb.jpg }
+- { name: things-5.jpg, thumb: things-5-thumb.jpg }
+- { name: things-6.jpg, thumb: things-6-thumb.jpg }
+- { name: things-7.jpg, thumb: things-7-thumb.jpg }
+- { name: things-8.jpg, thumb: things-8-thumb.jpg }
+- { name: things-9.jpg, thumb: things-9-thumb.jpg }
+- { name: things-10.jpg, thumb: things-10-thumb.jpg }
+- { name: things-11.jpg, thumb: things-11-thumb.jpg }
+- { name: things-12.jpg, thumb: things-12-thumb.jpg }
+- { name: things-13.jpg, thumb: things-13-thumb.jpg }
+- { name: things-14.jpg, thumb: things-14-thumb.jpg }
+- { name: things-15.jpg, thumb: things-15-thumb.jpg }
+- { name: things-16.jpg, thumb: things-16-thumb.jpg }
+- { name: things-17.jpg, thumb: things-17-thumb.jpg }
+- { name: things-18.jpg, thumb: things-18-thumb.jpg }
+- { name: things-19.jpg, thumb: things-19-thumb.jpg }
+- { name: things-20.jpg, thumb: things-20-thumb.jpg }
+- { name: things-21.jpg, thumb: things-21-thumb.jpg }
+- { name: things-22.jpg, thumb: things-22-thumb.jpg }
