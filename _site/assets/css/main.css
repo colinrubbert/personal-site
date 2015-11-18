@@ -543,15 +543,13 @@ header {
     .photography-container .photography-category a {
       font-style: none; }
   .photography-container .photography-grid {
-    display: flex;
-    flex-flow: row wrap;
-    margin: 0 auto; }
+    display: block;
+    margin: 0 auto;
+    text-align: center; }
     .photography-container .photography-grid .thumb-unit {
-      flex: auto;
+      display: inline-block;
       margin: 0 10px;
-      width: 30%;
-      justify-content: center;
-      align-self: center; }
+      width: 30%; }
       .photography-container .photography-grid .thumb-unit img {
         width: 100%;
         height: auto; }

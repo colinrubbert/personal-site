@@ -22,16 +22,14 @@
       //   border-bottom: 3px solid $accent-light-color
 
   .photography-grid
-    display: flex
-    flex-flow: row wrap
+    display: block
     margin: 0 auto
+    text-align: center
 
     .thumb-unit
-      flex: auto
+      +display(inline-block)
       margin: 0 10px
       width: 30%
-      justify-content: center
-      align-self: center
 
       img
         width: 100%
