@@ -556,9 +556,11 @@ header {
         width: 100%;
         height: auto; }
 
-.fancybox-skin {
-  background: transparent; }
-
+@media (max-width: 768px) {
+  .photography-container .photography-grid {
+    display: block; }
+    .photography-container .photography-grid .thumb-unit {
+      width: auto; } }
 footer .nav-container {
   max-width: 800px;
   height: 100px;
