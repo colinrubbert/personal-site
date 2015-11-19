@@ -15,11 +15,13 @@
     +justify-content(space-around)
     +align-items(center)
 
-    a
-      font-style: none
-      //
-      // &:hover
-      //   border-bottom: 3px solid $accent-light-color
+    label
+      cursor: pointer
+
+  .people,
+  .places,
+  .things
+    display: none
 
   .photography-grid
     display: block
@@ -34,6 +36,9 @@
       img
         width: 100%
         height: auto
+
+  .active
+    border-bottom: 3px solid $accent-light-color
 
 @media (max-width: 768px)
   .photography-container

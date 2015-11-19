@@ -1,6 +1,6 @@
 # ---- People Gallery ---- #
 
-images:
+people_images:
 - { name: people-0.jpg, thumb: people-0-thumb.jpg }
 - { name: people-1.jpg, thumb: people-1-thumb.jpg }
 - { name: people-2.jpg, thumb: people-2-thumb.jpg }

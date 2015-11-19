@@ -540,8 +540,12 @@ header {
     -o-align-items: center;
     align-items: center;
     -ms-flex-align: center; }
-    .photography-container .photography-category a {
-      font-style: none; }
+    .photography-container .photography-category label {
+      cursor: pointer; }
+  .photography-container .people,
+  .photography-container .places,
+  .photography-container .things {
+    display: none; }
   .photography-container .photography-grid {
     display: block;
     margin: 0 auto;
@@ -553,6 +557,8 @@ header {
       .photography-container .photography-grid .thumb-unit img {
         width: 100%;
         height: auto; }
+  .photography-container .active {
+    border-bottom: 3px solid #FF9999; }
 
 @media (max-width: 768px) {
   .photography-container .photography-grid {

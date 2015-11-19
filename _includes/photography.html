@@ -5,16 +5,36 @@
     <h3 class="photography-section-title">Photography</h3>
 
     <div class="photography-category">
-      <a href="">People</a>
-      <a href="">Places</a>
-      <a href="">Things</a>
+      <label class="people-category">People</label>
+      <label class="places-category">Places</label>
+      <label class="things-category">Things</label>
     </div>
 
-    <div class="photography-grid">
+    <div class="people">
+      {% for image in site.data.galleries.people_images %}
+        <div class="thumb-unit">
+          <a class="fancybox-thumb" rel="fancybox-thumb" href="{{ site.baseurl }}/assets/img/compressed/people/{{ image.name }}">
+            <img src="{{ site.baseurl }}/assets/img/thumbs/people/{{ image.thumb }}" />
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="places">
       {% for image in site.data.galleries.places_images %}
         <div class="thumb-unit">
           <a class="fancybox-thumb" rel="fancybox-thumb" href="{{ site.baseurl }}/assets/img/compressed/places/{{ image.name }}">
             <img src="{{ site.baseurl }}/assets/img/thumbs/places/{{ image.thumb }}" />
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="things">
+      {% for image in site.data.galleries.things_images %}
+        <div class="thumb-unit">
+          <a class="fancybox-thumb" rel="fancybox-thumb" href="{{ site.baseurl }}/assets/img/compressed/things/{{ image.name }}">
+            <img src="{{ site.baseurl }}/assets/img/thumbs/things/{{ image.thumb }}" />
           </a>
         </div>
       {% endfor %}
