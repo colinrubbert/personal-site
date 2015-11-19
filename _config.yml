@@ -14,3 +14,7 @@ port: 3000
 sass:
   sass_dir: assets/css
   style: :nested
+
+
+paginate: 6
+paginate_path: "/articles/page/:num"
