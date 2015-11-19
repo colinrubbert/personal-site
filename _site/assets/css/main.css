@@ -565,6 +565,17 @@ header {
     display: block; }
     .photography-container .photography-grid .thumb-unit {
       width: auto; } }
+.posts-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px; }
+  .posts-wrapper h1 {
+    margin-top: 0;
+    text-align: center; }
+  .posts-wrapper p {
+    font-size: 16px;
+    color: #333; }
+
 footer .nav-container {
   max-width: 800px;
   height: 100px;
