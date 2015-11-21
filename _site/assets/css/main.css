@@ -590,9 +590,12 @@ header {
       width: auto; } }
 .articles-container {
   max-width: 800px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 50px 0; }
   .articles-container .articles-section-title {
-    text-align: center; }
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 50px; }
 
 .posts-wrapper {
   max-width: 800px;
