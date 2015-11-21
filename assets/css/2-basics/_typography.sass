@@ -50,3 +50,22 @@ hr
   clear: both
   margin: 10px 0 30px
   height: 0
+
+blockquote
+  padding-left: 10px
+  border-left: 8px solid $accent-color
+  margin: 1.5em 50px
+  padding: 5px 10px
+  quotes: "\201C""\201D""\2018""\2019"
+
+blockquote:before
+  color: $accent-light-color
+  content: open-quote
+  font-size: 4em
+  line-height: 0.1em
+  margin-right: 0.25em
+  vertical-align: -0.4em
+
+blockquote p
+  display: inline
+  font-style: italic

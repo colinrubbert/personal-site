@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Bree+Serif);
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -258,6 +259,25 @@ hr {
   clear: both;
   margin: 10px 0 30px;
   height: 0; }
+
+blockquote {
+  padding-left: 10px;
+  border-left: 8px solid #FF6666;
+  margin: 1.5em 50px;
+  padding: 5px 10px;
+  quotes: "“" "”" "‘" "’"; }
+
+blockquote:before {
+  color: #FF9999;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em; }
+
+blockquote p {
+  display: inline;
+  font-style: italic; }
 
 header {
   box-shadow: 0 2px 8px #aaa; }
@@ -565,6 +585,12 @@ header {
     display: block; }
     .photography-container .photography-grid .thumb-unit {
       width: auto; } }
+.articles-container {
+  max-width: 800px;
+  margin: 0 auto; }
+  .articles-container .articles-section-title {
+    text-align: center; }
+
 .posts-wrapper {
   max-width: 800px;
   margin: 0 auto;
@@ -572,9 +598,12 @@ header {
   .posts-wrapper h1 {
     margin-top: 0;
     text-align: center; }
-  .posts-wrapper p {
+  .posts-wrapper p, .posts-wrapper ul {
     font-size: 16px;
     color: #333; }
+  .posts-wrapper blockquote p {
+    color: #6699CC;
+    font-size: 18px; }
 
 footer .nav-container {
   max-width: 800px;
