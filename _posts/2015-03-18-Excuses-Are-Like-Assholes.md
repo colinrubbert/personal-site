@@ -4,7 +4,7 @@ title: Excuses Are Like Assholes
 permalink: excuses-are-like-assholes
 ---
 
-# {{page.title}}
+
 
 Killing off excuses are the first step to start making positive changes in your life. It’s sometimes difficult to stop making excuses for not achieving the things that you wish to achieve. It’s easy to blame money, geography, the social class you were born into, time, and a whole lot more. Why wouldn’t you blame your lack of motivation and execution on all of your shortcomings? Who actually wants to take responsibility for their own missed shots? Not many.
 

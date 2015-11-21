@@ -3,9 +3,6 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
-
-
 Another week done and gone. My big concerns and focuses this week in my web dev pursuits was more so on the business side of things. With my recent decision to go freelance I’ve launched into research and development mode. Having a history of IT consulting, working for small businesses, and knowing many small business owners I definitely have some solid knowledge of how a business should be ran and more importantly how a business SHOULDN’T be ran. The difficulty is that when it comes to the web design and development I don’t know a lot of the ins and outs of this world, in terms of business ownership at least. This lack of knowledge has launched me into R&D mode.
 
 The week began with me finally making the decision that I am going to jump into freelance and truly commit to it. Of course that means I’ve been scouring the internet for things that I will need and need to know, which I kind of love this research mode since I’m fascinated by learning new things. I’ve dug into some concepts but the biggest thing that I needed was to understand my local economy and see what was available for me to build a client base. Since I’ve decided that January will be when I truly “launch” my freelance business I needed to start collecting information.

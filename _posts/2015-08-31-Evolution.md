@@ -4,7 +4,7 @@ title: Evolution
 permalink: evolution
 ---
 
-# {{page.title}}
+
 
 As someone who has focused on personal growth and development, a key factor of my life is to always be evolving and to accept the change. The thought of evolution sparked in my mind this morning when thinking about my progression over the last year and more importantly with this blog. I started out wanting to do something creative and it most likely was going to be in photography. I wanted to pivot out of the rut that I was in and start building a different and more rewarding life. That life I wanted evolved heavily on creative pursuits. Over the last year though I have strayed from the photography but that’s the point of this is that I evolved. I found something that was more satisfying and rewarding.
 

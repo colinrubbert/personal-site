@@ -4,7 +4,7 @@ title: Fuck Monotony, Follow Your Passions
 permalink: fuck-monotony-follow-your-passions
 ---
 
-# {{ page.title }}
+
 
 Find your passion and never give up. For too many of us we walk a path that wasn’t deliberately chosen by us, it was chosen for us. When we are children we are passionate about want to do **BIG** things like be astronauts, pirates, professional athletes, fearless explorers or a million other things that we see as exciting through the pure lens of a child's eye. When we grow up though, our passions are replaced by practicality and purpose. But whose purpose and why do we need practicality, it dulls who we are and turns us into sleepwalkers in the maze of life.
 

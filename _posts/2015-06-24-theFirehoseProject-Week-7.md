@@ -4,7 +4,7 @@ title: The Firehose Project - Week 7
 permalink: thefirehoseproject-week-7
 ---
 
-# {{page.title}}
+
 
 Week 7 done and done. Another week over and another week begins. I’ve got my work cut out for me for the coming week. Last week was a great example of time management. That was the biggest less that I learned. Things come up and they can certainly restrict you from completing all the things that you would’ve liked to but that’s life. There were quite a few things that I pondered over this week, it was more of a soft skill development week versus a technical development.
 

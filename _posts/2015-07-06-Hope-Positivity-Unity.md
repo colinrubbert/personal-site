@@ -4,7 +4,7 @@ title: Hope Positivity and Unity
 permalink: hope-positivit-and-unity
 ---
 
-# {{page.title}}
+
 
 After the wonderful performance of the Women’s World Cup by the US Women’s team I’ve come to realize that recent generations are missing something, a combined positive goal or pursuit to get rallied behind. It’s pretty easy nowadays to feel like a lone wolf and not reliant on anyone else and that we really don’t need to band together and make a difference. That premise is pretty baked into our society now with social media, texting, and other forms of communication getting less human and more digital. It’s easy to be fragmented with how globalized everything has become.
 

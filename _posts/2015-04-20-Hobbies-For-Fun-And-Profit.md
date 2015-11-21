@@ -4,7 +4,7 @@ title: Hobbies For Fun And Profit
 permalink: hobbies-for-fun-and-profit
 ---
 
-# {{page.title}}
+
 
 If you are lucky you will stumble upon a hobby that you love so much and that you are so passionate about that you can make a career out of it. I had been fortunate to have rekindled my love for technology when I had, it gave me something to work for and helped fill my life with accomplishment and enjoyment. Sometimes though when you take on a hobby as a career you find that the direction that you went wasn’t the perfect direction, it was close but it wasn’t quite *right*.
 

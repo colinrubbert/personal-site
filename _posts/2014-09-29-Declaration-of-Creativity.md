@@ -3,7 +3,6 @@ layout: post
 title: Declaration of Creativity
 permalink: declaration-of-creativity
 ---
-# Declaration of Creativity
 
 Today I declare my intentions and define my path for the future. Lately multiple people have called me a photographer and at each introduction or mention of it I have declared that I am in fact not a photographer. I have had this misguided representation of what a photographer was, I was projecting the profession onto the title and not the act. First lets define the word photographer:
 

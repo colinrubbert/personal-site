@@ -4,7 +4,7 @@ title: Serendipity Of Projects
 permalink: serendipity-of-projects
 ---
 
-# {{page.title}}
+
 
 It’s always a great experience when serendipity strikes when you start learning something new. I often find myself learning or trying new things but at the same time have no place to apply those new skills and they atrophy quickly. Since I have a massive amount of curiosity and interest in a ton of different things I have a tendency to just always be consuming knowledge. I enjoy it and it makes me a more well rounded person. Recently I’ve talked about learning Ruby on Rails as an entry point into learning Ruby. Basically I’m hacking my learning to learn Ruby in not a traditional way. More ass backwards than what a course would teach you. Since I’ve picked up this task and wanted to start learning RoR I’ve been presented either by coincidence, serendipity or just because now that I’m focused and noticing more things that are Ruby related. I’ve got a direction and real world applications that I can build because they make sense now to me. Hell yeah for actual projects.
 

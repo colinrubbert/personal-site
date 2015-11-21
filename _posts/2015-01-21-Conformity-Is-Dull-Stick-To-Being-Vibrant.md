@@ -4,7 +4,7 @@ title: Conformity Is Dull, Stick To Being Vibrant
 permalink: conformity-is-dull-stick-to-being-vibratn
 ---
 
-# {{ page.title }}
+
 
 It’s a shame that in our modern society there is so much emphasis on fitting in, doing the cool thing, and being part of the herd. We’re told that we’re individuals, we want to believe that we’re individuals but really we are, for the most part, like everyone else. The good news is thought that in each and every one of us there is a vibrant uniqueness dying to explode and breakthrough to the surface. It wants to desperately show the world what makes us truly unique. Unfortunately though many of us hold onto this urge to truly show people who we are deep on the inside. We subconsciously believe that being unique is shameful and that the only way to be accepted loved and liked is to be like everyone else. This result is a society of sleep walkers and conformists.
 

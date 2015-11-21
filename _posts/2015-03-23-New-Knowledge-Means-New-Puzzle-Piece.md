@@ -4,7 +4,7 @@ title: New Knowledge Means New Puzzle Piece
 permalink: new-knowledge-means-new-puzzle-piece
 ---
 
-# {{page.title}}
+
 
 It’s been over month since I started to learn how to code using Ruby on Rails. It was intended to be a motivational tool to kick off learning something new every month and it has turned into something I wouldn’t have expected. Since I’ve been doing it I have felt more creative and far more fulfilled than I would’ve imagined. I keep pushing through online course after online course, focusing and dedicating myself to learning as much as I can. The results of which have been numerous inspirational ideas for web applications that I plan on developing and launching. Jumping in headfirst and dedicating myself to this has been very rewarding.
 

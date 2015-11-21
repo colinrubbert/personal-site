@@ -4,7 +4,7 @@ title: Open Letter To Madison+ Ruby
 permalink: open-letter-to-madison-plus-ruby
 ---
 
-# {{page.title}}
+
 
 How can I even start this without just first saying “Thank You”, thank you for such an amazing experience. Thank you to Jim, Jen, the whole Adorable team, volunteers, speakers, and attendees. Thank you for the conversations, the inspiration, the feels, the new friendships and connections. Thank you for Ruby Karaoke, an event that I certainly will never forget! Just in general a big heartfelt **“Thank You!”**
 

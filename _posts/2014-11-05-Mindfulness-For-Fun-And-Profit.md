@@ -4,7 +4,7 @@ title: Mindfulness For Fun and Profit
 permalink: mindfulness-for-fun-and-profit
 ---
 
-# {{ page.title }}
+
 
 Being of the moment and being mindful of our feelings can be a great asset in personal progress. Many people, I could go so far as saying the majority of people especially in the US, are not conscious in the moment. They don’t rationally or objectively assess their feelings, thoughts and emotions. We get pissed off, angry, scream, rage, curse the gods about stupid little insignificant things that really have no impact on our lives, nonetheless we give them a space in our minds and hearts. Then we let those emotions boil inside our minds, constantly coming back to them and getting more pissed off. These are the habits that destroy, stress our relationships and make our days shit. And for what, because some person cut us off in traffic, said something hostile, or whatever it is that we get worked up over. Does that really warrant your whole day turning to shit? Absolutely not!
 

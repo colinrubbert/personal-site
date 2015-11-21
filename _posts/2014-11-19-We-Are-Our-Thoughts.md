@@ -4,7 +4,7 @@ title: We Are Our Thoughts
 permalink: we-are-our-thoughts
 ---
 
-# {{ page.title }}
+
 
 > There is nothing either good or bad but thinking makes it so.
 > ~ William Shakespeare

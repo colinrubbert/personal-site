@@ -4,7 +4,7 @@ title: Positivity Breeds Positivity
 permalink: positivity-breeds-positivity
 ---
 
-# {{page.title}}
+
 
 Remember that when you are cursing the Gods for your misfortune it may be entirely your fault. I’ve spent 27 years on this Earth and if there is one takeaway from all that time is that good things happen to positive people and bad things happen to negative people. It’s pretty easy blaming our misfortunes on magical deities or our fellow sentient beings that roam this Earth but often it starts with us. The concept of having things happen, good or bad, solely on the way in which you see the world can be incredibly difficult to grasp for some people. The reality though is that being positive or negative is a big deal when it comes to how your life plays out. While it’s not the only factor in having good or bad things happen it is a strong influencer.
 

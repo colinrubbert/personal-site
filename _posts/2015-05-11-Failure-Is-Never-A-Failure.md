@@ -4,7 +4,7 @@ title: Failure Is Never A Failure
 permalink: failure-is-never-a-failure
 ---
 
-# {{page.title}}
+
 
 Failure should never looked at as a failure. We will, numerous times, fail miserably while attempting to do something. We will fail at work, fail at asking a potential love interest out, fail being a friend, fail at our goals, fail at being a good family member, fail at a million and half other things; our nature is to fail. I don’t believe the human race is hardwired to succeed over and over again, instead I believe the human race is hardwired to try new things over and over again failing until they figure out how to make it work.
 

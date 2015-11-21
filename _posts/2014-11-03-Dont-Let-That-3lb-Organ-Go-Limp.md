@@ -4,7 +4,6 @@ title: Don't Let That 3LB Organ Go Limp
 permalink: dont-let-that-3lb-organ-go-limp
 ---
 
-# {{ page.title }}
 
 Our brains are like any other muscle in our bodies (yes I know the brain isn’t an actual muscle but that’s besides the point). It needs to be exercised, flexed, stressed, worked, nurtured, and massaged like any other muscle in the body. Everyday I set out to do two simple things, or not simple depending on the days perspective, I freewrite a minimum of 1000 words and I learn something new. I’ve mentioned this pretty frequently at this point but I can’t stress how powerful this has been for me. What this does is exercise my brain, keep it primed and always ready for creativity. After doing this for well over a month now, I am actually seeing or rather feeling the results of these mental exercises. It is rather astonishing actually, things click faster and the connections happen quicker. It really is quite remarkable, much like the first time you see yourself in a full length mirror after exercising for a while.
 

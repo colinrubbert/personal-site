@@ -4,7 +4,7 @@ title: Creative Growth Through Travel
 permalink: creative-growth-through-travel
 ---
 
-# {{ page.title }}
+
 
 Every time that I travel I discover a little bit more about myself and the places I travel to. You would think formally living and frequently visiting Chicago that there wouldn’t be much to explore or discover that I hadn’t previously stumbled upon before, you would be wrong. Each time I visit that city I find something new. It’s either a geographic discovery, gastronomical discovery or a psychological discovery but it never fails that I discover something. This doesn’t just apply to visiting Chicago, that’s just my place and it’s currently my most recent travel experience, but it applies to any time that I travel. There is an incredible sense of discovery and adventure, it energizes me in ways that I could never dream. Travel is the fuel for the soul.
 

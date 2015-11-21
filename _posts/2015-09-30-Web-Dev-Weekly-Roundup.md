@@ -3,7 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
+
 
 A week into my web dev gig and there’s a TON of information that has been consumed with a faulted attempt to process it in a reasonable way. My task for this contract is to get up to speed as soon as I can with, from my point of view, a fairly complicated codebase. I like the challenge though. Things have always came pretty natural to me throughout my life and for once I actually feel like I’m truly being challenged on a daily basis, it’s frustrating but rewarding feeling. This week came with some pretty big realizations, struggles and jumping into unfamiliar territories.
 

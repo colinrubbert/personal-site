@@ -4,7 +4,7 @@ title: Complexity In The Mundane
 permalink: complexity-in-the-mundane
 ---
 
-#{{page.title}}
+
 
 We take for granted the beautiful design we see all around the world and on the internet. We don’t spend enough time just thinking how difficult it was for the person to spend the time to design what you see. Take for instance building a website, it seems like it would be as easy as attributing a color to an element like “background: black;” and actually it can be this easy. If you just want a black background but there is so much more that goes into designing a website that makes it look good and appealing. There are tons of layers of creativity that goes into designing anything from products to websites.
 

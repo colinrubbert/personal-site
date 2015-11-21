@@ -4,7 +4,7 @@ title: The Firehose Project - Week 6
 permalink: thefirehoseproject-week-6
 ---
 
-# {{page.title}}
+
 
 Another week in the bank, today I’m rounding out week 6 of theFirehoseProject bootcamp. Like every week of this bootcamp I’ve learned some cool things, battled with a few others, and found some wonderful pieces of advice. I’ve gone from sticking to a template and building a simple CRUD application to starting to implement my own features. Finding the resources necessary to solve a problem isn’t too difficult in the Rails community, in fact most everything has been done in one way or the other, doing some Googling usually comes up with a dozen posts and articles about that can be extrapolated to your own needs. Let’s get started with what I learned this week.
 

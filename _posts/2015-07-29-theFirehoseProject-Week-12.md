@@ -4,7 +4,7 @@ title: The Firehose Project - Week 12
 permalink: thefirehoseproject-week-12
 ---
 
-# {{page.title}}
+
 
 Wow, it’s coming very close to an end. Now that week 12 is all wrapped up I’ve started to get this weird reverse senioritis. I have one more mentor session left and roughly 2 to 3 more group sessions left and I’m officially all done with the Firehose Project. Historically whenever I got close to finishing up my time at a specific school I would get infected with severe senioritis and would just do the absolute bare minimum, however, with the Firehose Project I am frantically working to get the absolute most left out of the final weeks. With that said it is a bit saddening to see my days come near an end. It’s an odd bittersweet feeling. Regardless I must carrier on and keep on working.
 

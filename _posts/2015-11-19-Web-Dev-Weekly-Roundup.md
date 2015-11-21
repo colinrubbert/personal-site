@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Web Dev Weekly Roundup
+excerpt_seperator: <!--more-->
 ---
 
-# {{page.title}}
 
-I’ll never go back to doing a website without a mockup. That was my big takeaway from this last week. I experienced the pain the previous week with multiple site redesigns, scraping ideas and having to start over because I had no clear vision of the direction that I wanted to go. In the last week I finished up a Jekyll theme where we worked off of a mockup and then this week I’ve been spending some time redesigning and rebuilding my personal site with Jekyll but with a mockup in hand. A couple of nuggets of insight happened this week too but the biggest was the mockups.
+
+**I’ll never go back to doing a website without a mockup.** That was my big takeaway from this last week. I experienced the pain the previous week with multiple site redesigns, scraping ideas and having to start over because I had no clear vision of the direction that I wanted to go.
+<!--more-->
+
+In the last week I finished up a Jekyll theme where we worked off of a mockup and then this week I’ve been spending some time redesigning and rebuilding my personal site with Jekyll but with a mockup in hand. A couple of nuggets of insight happened this week too but the biggest was the mockups.
 
 So mockups, we love to use them when they’re provided to us but in the world of rapid prototyping things and beginners in the scene we can sometimes skip the mockup portion of development and opt to get right into the coding. I sure did before now. Now I will never build something without at least a rough sketch if not a full designed mockup at my fingertips. It makes things incredibly less painful.
 

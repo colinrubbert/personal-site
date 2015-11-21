@@ -4,7 +4,7 @@ title: Lets Make Connections
 permalink: lets-make-connections
 ---
 
-# {{ page.title }}
+
 
 
 It’s easy to say that we are connected but the more technology replaces interaction we become more and more distant from one another and the items we interact with daily. A primary part of the human experience is connections; connections between each other, products, food, services, tools, and much more. Building a connection to our experiences is a major reason we evolved to be the dominant species, if we didn’t have the brainpower to make those connections we would still be swinging from limb to limb high in the tree tops. The moment that we realized that we can create tools to assist us in building shelter and weapons to catch food was the moment we went from being simple beings to a world of interconnections. We think that today’s society is making us more connected than ever and in many ways it is but it is also creating disassociations between our interactions and our consumables.

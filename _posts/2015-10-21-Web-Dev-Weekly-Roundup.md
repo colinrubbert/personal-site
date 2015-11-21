@@ -3,7 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
+
 
 I stepped away for a little bit to regain my breath since I’ve been working 60-70 hours a week for the last month I needed a bit of break so this will be a web dev recap on this last week but not the week before. Sometimes you just need to step away and recapture your breath.
 

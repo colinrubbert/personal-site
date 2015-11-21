@@ -4,7 +4,7 @@ title: Failed Expectations Doesn't Mean Failed Experiences
 permalink: failed-expectations-doesnt-mean-failed-experiences
 ---
 
-# {{ page.title }}
+
 
 There will be numerous times in your life where you will be let down, your expectations were just far too high. We like to think that we have control in our lives but really we have little to no control. We may have some control over our own actions but we have zero control of the environment and people around us, just a simple fact of life. You will be let down, you will have too high of expectations, and you will be pissed about it. I’m here to tell you, grow some balls and just enjoy life. Fuck expectations and trying to live life based around an unrealistic reality.
 

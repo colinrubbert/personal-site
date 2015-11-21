@@ -4,7 +4,7 @@ title: Enjoy The Little Things
 permalink: enjoy-the-little-things
 ---
 
-# {{page.title}}
+
 
 
 There’s moments in life where things are just so damn complicated. As humans we tend to pile the shit on and complicate life even more, it seems to be our natural states. On one hand it’s quite impressive from what we have evolved into and on the other hand we seemed to have evolved to a point where we try to make things that should be simple more complex for the simple reason that we can. Life gets tricky and over complicated, we often do take a step back and enjoy the little things in life.

@@ -4,7 +4,7 @@ title: Starting From Scratch
 permalink: starting-from-scratch
 ---
 
-# {{page.title}}
+
 
 It’s an odd feeling to start out fresh again, it’s uncomfortable, and sometimes disheartening but at the same time exciting. I’m just about wrapped up with my time at The Firehose Project  and about ready to start a new career as a full stack web developer. Having to start out on a new career path means I’m starting out at square one, again. For many people starting out from scratch is a difficult thing to do and that’s why many of us tend to stay in the same jobs, even if we hate them, for far too long. For me starting out is still painful and tortuous but for some reason when I want something I dive in 100% without spending too much time on thinking about how difficult it will be to start from scratch again.
 

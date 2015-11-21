@@ -4,7 +4,7 @@ title: Unmistakable
 permalink: unmistakable
 ---
 
-# {{ page.title }}
+
 
 In the last month I have steadily been mainlining the [Unmistakable Creative](http://unmistakablecreative.com/) podcast including all of the 400+ backlog of interviews. Everyday I listen to at least 1 if not 2 of the hour long podcasts with someone who would be considered unmistakable. The Unmistakable Creative podcast is hosted by Srini Rao, Srini interviews the instigators, innovators, creatives, and leaders of a variety of disciplines. The show has been having a huge impact on my day to day life and has introduced me to a lot of people I had previously never knew of and has given me thought candy to chew on for the whole day. The show, my own adventure to follow my creative side, and figure out what makes me happy, I have been thinking a lot about one question that Srini ends all of his interviews with: what makes someone unmistakable?
 

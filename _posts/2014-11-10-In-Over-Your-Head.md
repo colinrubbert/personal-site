@@ -4,7 +4,7 @@ title: In Over Your Head
 permalink: in-over-your-head
 ---
 
-# {{ page.title }}
+
 
 In over your head is a state of being, it’s a place where you are forced to produce, react, and  progress quickly. If you are any good at learning on the the fly, winging it, or thrive under pressure then it is likely that you live in over your head. Frankly this is the perfect state to be in, constantly learning, being challenged, and pushed outside of your comfort zone. This state of being has steadily been preoccupying my mind, I’m intrigued by the fact that many of the most successful people in history pretty much live consistently in over their head. The thought first sparked after reading Julien Smith’s blog “In Over Your Head” and more specifically his essay [How To Change Your Life](http://inoveryourhead.net/how-to-change-your-life-an-epic-guide-to-building-new-habits-dealing-with-fear-and-getting-what-you-want-from-your-day/), in that essay he says this:
 

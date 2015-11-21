@@ -3,7 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
+
 
 Every week that I get to spend time coding is a good week and I got the chance to do a lot of coding this week. From lightning talk app: learning helper methods and learning how to seed a database, contributing to open source, and getting my questions answered on 5by5 Ruby on Rails podcast. There was a lot of win for me this week and all the moments spent writing code made it a great week.
 

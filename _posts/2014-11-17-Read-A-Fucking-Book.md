@@ -4,7 +4,7 @@ title: Read A Fucking Book
 permalink: read-a-fucking-book
 ---
 
-# {{ page.title }}
+
 
 Reading is an essential cornerstone of creativity and not just reading junk blogs and the “news”. When I talk about reading I talk about reading stuff of substance whether it be self-improvement, nonfiction, fiction, or manuals on how to build something; if it adds value to your life in a positive way you should be reading it. For the last couple weeks I have slowly been giving into distractions, sometimes it’s hard to see it while it’s happening, but as I moved further and further away from reading every night I started to notice that my writing in the morning was starting to lack in substance. While I feel like I’ve written some good things in the last couple weeks I’ve truly wrote more shit than I have gems and I think this has a strong correlation to me reading at night, or rather the lack there of, for the last couple weeks.
 

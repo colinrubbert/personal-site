@@ -4,7 +4,7 @@ title: Value Of Building Something
 permalink: value-of-building-something
 ---
 
-# {{page.title}}
+
 
 In our modern society we take for granted all of the things that are manufactured and available to us. We have, for the most part, lost our connection to the things that we own and use because we no longer are involved in the manufacturing process. Everything is pre-processed, built, and shipped right to us. All of this is in the name of convenience but we lose the connection to the items we depend on each and every day.
 

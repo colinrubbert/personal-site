@@ -3,7 +3,6 @@ layout: post
 title: The Voices In Our Heads
 permalink: the-voices-in-our-heads
 ---
-# {{ page.title }}
 
 Sometimes the struggle to do the things that are necessary when you just don’t feel like doing them is the most difficult thing in the world. Having the fortitude to push through and accomplish the things you want to do is quintessential for success. Just like the addict we all have that nagging little negative voice in our head telling us that it’s ‘OK’ to be lazy, procrastinate, or even not do something all together because it’s hard. As a recovering addict I know this voice all too well. While in an active cycle of addiction that voice is the loudest thing in the universe, it guides us in a million negative directions, and gets off on doing it. I’m fortunate or unfortunate, depending on how you look at it, enough to know the powers of this voice but it also gives me a powerful tool, an upper hand. For me to continue to achieve successful recovery I needed to develop the skills to be able to not give any power to the negative voice. Now I continue to not give those negative voices power but it’s not only to continue my sobriety, that struggle is caged up and quiet, but to go after the the things I want the most in my life and build a positive legacy for generations after.
 

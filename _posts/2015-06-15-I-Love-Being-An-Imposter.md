@@ -4,7 +4,7 @@ title: I Love Being An Imposter
 permalink: i-love-being-an-imposter
 ---
 
-# {{page.title}}
+
 
 I’m an imposter and a fake and I fucking love it! I’m not ashamed of being an imposter, not at all, it means I’m jumping far outside of my comfort zone to become something that I’m currently not. It’s passion, challenge and excitement that leads me down the road of imposter syndrome. I’ve always kind of lived by the motto of “Fake it til you make it”, that one motto has gotten me further in my life than anything else. None of us knew the things we know now when we didn’t know them, at some point in time we had to pretend to be someone who we weren’t and by that we developed into who we are now for better or worse, hopefully better.
 

@@ -4,7 +4,7 @@ title: Mindful of Opportunities
 permalink: mindful-of-opportunities
 ---
 
-# {{page.title}}
+
 
 I’ve talk about mindfulness in the past and the value it has as a daily practice. I’m here to tell you it’s no different today than it was when I wrote it over 6 months ago. If you haven’t read it I’ll get you up to speed. I practice on a daily basis the art of mindfulness, it really is an art and not always difficult. Mindfulness is a state of active, open attention on the present. It’s the focus of being present in everything that you do and every connection you make.
 

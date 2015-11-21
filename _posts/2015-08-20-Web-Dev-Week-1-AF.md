@@ -4,7 +4,7 @@ title: Web Dev Week 1 AF
 permalink: web-dev-week-1-af
 ---
 
-# {{page.title}}
+
 
 One week AF (After Firehose) and I’m still fully submerged in web development awesome sauce. I had thought that with the bittersweet ending of the Firehose Project that I would be unfocused and feel lost but instead of just saying goodbye and checking out, I doubled down on the community. I had figured that the week after the Firehose Project would be one of laziness and unproductiveness but I was wrong, it’s been crazy busy, focused, and active. The social aspect of the community really is starting to feel like it’s growing and that’s fantastic, I’m super excited to see where this all goes.
 

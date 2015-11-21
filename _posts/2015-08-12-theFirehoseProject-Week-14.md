@@ -4,7 +4,7 @@ title: The Firehose Project - Week 14
 permalink: thefirehoseproject-week-14
 ---
 
-# {{page.title}}
+
 
 That’s a wrap folks! It’s sad to say those words. I’ve spent the last 14+ weeks (including the pre-work weeks) with the Firehose Project and tonight was my exit interview and my final group meeting. I currently have a bunch of mixed emotions joy, sadness, accomplishment, pride, belonging, and so many more. While most the emotions I have from this experience I do have to say that it is bittersweet, I know they’re not kicking me out and I’ve got so much more I plan on giving to the Firehose Project but it still is a strange feeling to see the end. Having this mixed sense of sadness and joy tells me that this was an amazing experience. We must continue because I still have to do my wrap up of last week and week 14 was a mixed bag of items.
 

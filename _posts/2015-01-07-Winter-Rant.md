@@ -4,7 +4,7 @@ title: Winter Rant
 permalink: winter-rant
 ---
 
-# {{ page.title }}
+
 
 Winter always sucks me dry and I often lose my motivation and creativity during the dreary, cold, and short days of winter. I hate it, very much. I don’t think it is a mystery why things slow down and we become complacent with what we need to do. I will perpetually blame it on the weather. You see when winter starts it’s fantastic, it’s the holiday season; joy and happiness is in the air with the arrival of winter and Christmas season, it really is a great time of the year. Then it happens, December 26th or maybe for you it’s January 2nd, the holidays are over and we have nothing else to look forward to until the weather starts getting warmer but first it gets colder and here in Wisconsin it seems like each year we consistently experience frigid and brutal chills. After the holiday season I go through a point of monotony, seclusion and my creativity is drained. Often times the things that inspire me are the things that are outside but when we get 0℉ to -10℉ temperatures with wind chills that are in the -20℉ it becomes extremely difficult to do anything outside or even go anywhere, so you are stuck at home or at work, inside all day. This kills me, I’ve got a very vivid imagination but it seems during the winter it decides to migrate south.
 

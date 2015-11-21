@@ -4,7 +4,7 @@ title: Benefits Of Being Uncomfortable
 permalink: benefits-of-being-uncomfortable
 ---
 
-# {{page.title}}
+
 
 The path down a new road can be absolutely terrifying and unsettling. There is panic, uncertainty, and doubts about what will come next. The choice for change is always the easy part but the journey is where it becomes difficult and challenging. The thing though is that if you were making a major life change and it didn’t give you panic or terrify you even a little bit it means that the change isn’t as big as it should be. The anxiety, terror, and panic comes when you are completely stepping outside of your comfort zone and relying on pure survival skills to be able to make it happen.
 

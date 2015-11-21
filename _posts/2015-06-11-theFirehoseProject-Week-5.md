@@ -4,7 +4,7 @@ title: The Firehose Project - Week 5
 permalink: thefirehoseproject-week-5
 ---
 
-# {{page.title}}
+
 
 Week 5 is in the bag. Today I start moving on to week 6 of theFirehoseProject dev bootcamp. It’s been another great week of learning, frustrations, and breakthroughs. With being roughly a third of the way through the program this is a big milestone of progression. This is also the week that I can my learning into overdrive so the coming weeks will be learning on steroids. Anyways week 5 seems to have marked the week of things starting to become clearer and clearer in my approach to building out my apps.
 

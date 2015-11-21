@@ -4,7 +4,7 @@ title: Attractive Collisions
 permalink: attractive-collisions
 ---
 
-# {{page.title}}
+
 
 Life is funny like that, jumping into something that I never would’ve thought I would’ve enjoyed turns into something that I really do love. Opened doors and exciting times all comes from jumping in blind and trying to discover life and new opportunities. See there are some, in my opinion, unexplainable forces in the Universe that pushes and pulls us into certain directions. Do I think it’s God, no. Do I think there is a force of nature that is dependent on laws of attraction and repulsion, absolutely. The best example of this is why certain people attract us while other people do not, all at the same time the people we’re not attracted to could be attractive to everyone else. I think that same concept lies within everything that surrounds us. There are certain things that attract us, that call our name. Take for instance my love of Chicago, there’s a lot of things about Chicago that I could logically say “this is why I love the city” but in reality there is an unexplainable attraction to the city, it calls my name in the night like a siren’s song enticing me to come into it’s borders. That’s the way with a lot of things that we end up being passionate about, not just stuff we like but stuff that we are truly passionate about. We of course could logically explain why we enjoy said activity but really we have no idea what draws us and lures us to it. It makes us a return customer. I’ve always been fascinated with this concept and really find it interesting to think of why certain things attract us and why certain things repel us.
 

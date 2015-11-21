@@ -4,7 +4,7 @@ title: Laughter - The Prescription To All Suffering
 permalink: laughter-the-prescription-to-all-suffering
 ---
 
-# {{ page.title }}
+
 
 Laughter is one of the greatest de-stressors in the history of human-kind. If you want a sure fire way of relaxing and letting all the bullshit of the day melt away, you’ll find that with laughter. Nearly 100% of the time laughter will take you away from the stuff that is giving you issues. There has never been a time where I sat down to watch stand-up comedians or a comedy talk show that didn’t get me completely lost from any issues I may have and didn’t result in me searching out more laughter. Laughter is a drug, it’s addictive, when you have it you want more of it and when you don’t have it you suffer.
 

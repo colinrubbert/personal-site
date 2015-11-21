@@ -4,7 +4,7 @@ title: Just Smile
 permalink: just-smile
 ---
 
-# {{page.title}}
+
 
 Over the brief 27 years and 2 humbling restarts that I have had in my life I have learned that one of the easiest and quickest ways to improve your life, especially in the moment, is to smile. It doesn’t take much even though at certain times it can be feel impossible but a smile can go a long way to changing your day or making it that much better. I do my best to always be smiling even if it is just a slight upturn of my lips. I really think it has been the primary reason why I have not gone crazy or become horribly depressed.
 

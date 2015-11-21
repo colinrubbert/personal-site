@@ -4,7 +4,7 @@ title: The Firehose Project - Week 1
 permalink: thefirehoseproject-week-1
 ---
 
-# {{page.title}}
+
 
 **Prequel**
 

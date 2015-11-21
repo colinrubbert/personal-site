@@ -4,7 +4,7 @@ title: Exercise = Clarity, Clarity = Creativity
 permalink: exercise-equals-clarity-clarity-equals-creativity
 ---
 
-# {{ page.title }}
+
 
 It’s amazing how one simple act can have massive impacts on creative stimulation and creative process. Lately I have had many interruptions into my daily life, the interruptions themselves are not necessarily bad things, in fact they are important and need to be handled. There is though a significant impact that these distractions and interruptions have had on my creativity. The interruptions aren’t the problem, the problem is time and not having enough of it. The lack of time has disrupted my morning routines and primarily my routine of exercising daily. I have stated before just how important exercise is for creativity and happiness but I really hadn’t understood it fully until today.
 

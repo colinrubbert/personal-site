@@ -4,7 +4,7 @@ title: Early Morning Reinforcements
 permalink: early-morning-reinforcements
 ---
 
-# {{ page.title }}
+
 
 I use to hate waking up in the morning, if it was before 9 I cursed the world. I think having to be forced to wake up early to go to school or work as a kid was what made me dread the wee hours of the morning. As I got older and as I had to work manufacturing jobs I would regularly have to wake up between 4-6 am, I hated it with a passion. For someone who has a tendency to stay up late, waking up early doesn’t work so damn well, it’s more of an inconvenience than anything else. However, now that I am trying to pursue creative endeavors and start a business I’ve been getting up earlier and earlier than usual so that I can get everything done in the morning that I want to, now getting up early gives me a jump start to my day and moves me in the right direction. I start off with early successes.
 

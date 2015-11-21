@@ -4,7 +4,7 @@ title: Twas The Night Before Christmas
 permalink: twas-the-night-before-christmas
 ---
 
-# {{ page.title }}
+
 
 
 Twas the night before Christmas… The fat man packed up and on his way to come give us goodies for being good little boys and girls all year long. Christmas is by far my favorite holiday; the holiday cheer, humans being human to one another, and a small sense of purity in our tainted adult lives. Christmas is that time of year that we get to experience that carefree joy and peace that we held so cherished when we were children, at least to a small degree we can feel that purity we use to have.

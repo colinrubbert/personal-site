@@ -4,7 +4,7 @@ title: Sprinting To Failure, Changing For Success
 permalink: sprinting-to-failure-changing-for-success
 ---
 
-# {{ page.title }}
+
 
 To get shit done is one of the best feelings ever, to not get the shit done that you wanted to get done is one of the worst. It’s not hard to fall short of the things that you set out to do, it really isn’t, I do it all the time. Actually, if I didn’t know any better I would have to say I am the best at falling short. It’s not that I shoot for lofty unattainable goals it’s that I lose steam and the old things that once distracted me now start to take its place. My greatest challenge in a life of pursuing my passions is to reignite the steam engines and keep pushing forward.
 

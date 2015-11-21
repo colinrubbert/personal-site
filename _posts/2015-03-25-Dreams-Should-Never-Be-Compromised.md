@@ -4,7 +4,7 @@ title: Dreams Should Never Be Compromised
 permalink: dreams-should-never-be-compromised
 ---
 
-# {{page.title}}
+
 
 No matter what when it comes to your dreams you can’t compromise. There are many times that we will face rejection throughout our lives but we should never let that rejection compromise our goals and ambitions. If you aren’t doing what you love then stop doing it, find a way to follow your dream and make that a reality. There’s hard work involved when you got down that route but the hard work pays off in the long run. Life is a marathon not a sprint and you will die miserable and regretful if all you did was shit you hated.
 

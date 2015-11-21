@@ -4,7 +4,7 @@ title: Starting Anew
 permalink: starting-anew
 ---
 
-# {{page.title}}
+
 
 We can spend much of our life feeling a bit unfulfilled in our daily lives. Things become stagnant, doing the same thing day in and day out but these moments tend to breed unrest. When we start getting restless in our lives that’s when magical things start to happen. It can take 30 seconds or 30 years for the restlessness to reach a tipping point but when you crest over that peak your life changes forever. It’s been almost a year of forward momentum backed by years of restlessness and finally in the last few hours I’ve hit the tipping point. Years of restlessness and dissatisfaction has built to this point. It’s by 5 years since I reinvented myself and now it’s time to reinvent myself again. Today I committed to my new life and today marks the day I start a new journey.
 

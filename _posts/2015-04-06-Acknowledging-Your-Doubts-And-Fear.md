@@ -3,7 +3,7 @@ layout: post
 title: Acknowledging Your Doubts And Fear
 permalink: acknowledging-your-doubts-and-fear
 ---
-# {{page.title}}
+
 
 There’s a lot of uncertainty when it comes to making big life choices. I’m a pretty confident guy and I am very rarely ever not cool, calm, and collected. I certainly wouldn’t show my reservations or uncertainty externally but I too am affected by uncertainty and doubt. I’ve been playing tug of war with uncertainty and my confidence recently, I’m making moves in a direction that will require me to make some very large life changes. While this will be an extremely exciting change in my life there is still a considerable amount of uncertainty and doubt that is associated with it. I’m going to be leaping with a very thin safety rope, it wouldn’t take much for it to break and I plummet to uncertain depths.
 

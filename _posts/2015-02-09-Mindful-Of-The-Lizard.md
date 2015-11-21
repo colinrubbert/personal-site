@@ -4,7 +4,7 @@ title: Mindful of the Lizard
 permalink: mindful-of-the-lizard
 ---
 
-# {{page.title}}
+
 
 I’ve talked about mindfulness before, being in the moment and recognizing what is going on around you and inside you. I’ve recently just had to deal with some stressful family issues and work issues all during the least opportune timing, thus “Surviving The Shit Storm” post I had last week. Things have been emotional with plenty of ups, downs, stresses, and curveballs; I’ve been able to address and react appropriately to each one of these situations because of my daily practice of mindfulness. In the last 24 hours I got reminded of how big of a difference it can make when the lizard brain kicks in; the lizard brain, for the people who don’t know, is the fight or flight center of our brain, it is the first thing that kicks off in any situation. It is the part of the brain that makes split second survival decisions before the higher thought processes of our brain kick in. If unchecked the lizard brain can really run rampant and kick off a day or even a decade of complete shit. Being mindful is the tool to keeping the lizard brain in check.
 

@@ -3,9 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
-
-WooHoo another week done and much accomplished. This week I got an MVP done, an MVP of my business website (which I’ll end up trashing and starting over because why not), and halfway through building a custom Jekyll theme that I can use for potential clients in the near future. I switched up my mindset this last week and kicked back into *getting shit done* mode.
+**WooHoo another week done and much accomplished.** This week I got an MVP done, an MVP of my business website (which I’ll end up trashing and starting over because why not), and halfway through building a custom Jekyll theme that I can use for potential clients in the near future. I switched up my mindset this last week and kicked back into *getting shit done* mode.
 
 To start off this week I did a bit of an inventory check to figure out where I was at with my day to day activities and see how I could adjust it to be more efficient. Last year I spent much of the year building daily habits that were based off of starting my day off with positivity, however, in the last few months I slowly started to strip those positive actions away from my daily ritual. The results were a reduction of productivity and focus throughout the day. I started going for the low hanging fruit all the day and doing the least possible that I had to but something triggered in me and reminded me that I wasn’t performing at the best thus triggering the inventory check. I figured out where I was slipping away and I adjusted my daily routine. In the last week of refocusing I’ve written more, spent less time on negative things like the news or social media, wrote a lot more code, and generally speaking I’ve just been happier. Daily routines work and they’re important to start your day off right, it feels good to be back at a positive daily routine.
 

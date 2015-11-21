@@ -4,7 +4,7 @@ title: Your Shit Job Can Be The Best Thing Ever
 permalink: your-shit-job-can-be-the-best-thing-ever
 ---
 
-# {{page.title}}
+
 
 One day you will come to realize, if done correctly, your shitty job you wake up to every morning that leaves you completely unfulfilled will be the best thing for your success as a person. You wake up every morning thinking to yourself, what the fuck am I doing? At one point or another we all experience this job, some of us experience more of them in a lifetime than we care to admit. Done correctly though your shit job can be the main reason why you eventually become a success, **if** you do it right.
 

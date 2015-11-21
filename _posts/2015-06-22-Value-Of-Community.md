@@ -4,7 +4,7 @@ title: Value of Community
 permalink: value-of-community
 ---
 
-# {{page.title}}
+
 
 One of the greatest things you can do when you start to build up a new skill or passion is to find a community that shares your interest. When finding that community it can give you a great opportunity to quickly expand your skills by leveraging the knowledge of your peers and mentors. It’s amazing to see the many people who are willing to help out someone who is just starting out. I’ve been incredibly grateful and surprised by the Ruby, Rails, and theFirehoseProject communities. It’s really why I believe that communities are one of the most important aspects of developing a new skill.
 

@@ -4,7 +4,6 @@ title: Web Dev Week 2 AF
 permalink: web-dev-week-2-af
 ---
 
-#{{page.title}}
 
 Now that I got a bit of a routine with scheduling weekly wrap ups on Wednesdays I think I’m going to make this a permanent staple of my writing. Wednesdays will be weekly wrap day, seems to work out nicely. It also gives me a way to cheat and now have to think too hard on coming up with a creative topic to talk about. Without further adieu we can get into what all I learned and experienced this last week, it was an active week.
 

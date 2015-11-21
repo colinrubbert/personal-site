@@ -4,7 +4,7 @@ title: Web Dev Weekly Roundup
 
 ---
 
-# {{page.title}}
+
 
 Here we are once again for another web development week in review. Most of the week was comprised of building an app for the Firehose community lightning talks, meetups, visiting Hashrocket, diving into date_select, getting parameter errors, patching data through links, and battling migration issues. The more I dive into web development the more I get hooked, it’s all I want to do, it’s all I think about, and now cursedly it’s what I dream about. What I do know is that even when I hit frustrating roadblocks and hit errors that have little to no description of the problem (I’m look at you Heroku!), I’m still having fun.
 

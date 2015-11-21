@@ -4,7 +4,7 @@ title: The Firehose Project - Week 8
 permalink: thefirehoseproject-week-8
 ---
 
-# {{page.title}}
+
 
 Week 8 is over and out. Another week checked off and another week of valuable learning experiences. This last week was both a technically rewarding week and a socially rewarding week with lots of good stuff peppered all around. I’ve learned how to build static pages outside of Rails by using a simple gem, experienced the value and joy of getting involved and attending a meetup, the frustrations of things breaking because of a specific gem was utilized, teamwork, and pair programming. It was a good week for learning and experiencing the web development culture.
 

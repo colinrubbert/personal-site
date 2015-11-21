@@ -4,7 +4,7 @@ title: Facing The Frustration To Success
 permalink: facing-the-frustration-to-success
 ---
 
-# {{page.title}}
+
 
 Exploring new ideas, experiences, hobbies, and careers paths are about being able to handle the frustration of being completely over your head. I’ve never been one to take things on that I knew wouldn’t be a challenge. If I wanted to settle, never be challenged and never take risks I would’ve stayed a metal fabricator.
 

@@ -3,7 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
+
 
 Having taken a couple of side jobs this week I didn’t get to put as much time into coding as I had hoped this week but it all works in the larger scheme of things for my next move. Currently I’ve been working to build out my IT consulting business and currently gearing up to include web design and development to the list of services I can provide. Sometimes you’ve just got to take things into your own hands. I did get some coding in and development related activities.
 

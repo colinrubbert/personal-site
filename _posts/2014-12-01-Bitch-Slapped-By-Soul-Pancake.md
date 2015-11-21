@@ -4,7 +4,7 @@ title: Bitch Slapped By Soul Pancake
 permalink: bitch-slapped-by-soul-pancake
 ---
 
-# {{ page.title }}
+
 
 I’m feeling a bit different today from the days prior, I feel a slight increase in energy and ambition after spending many days off script and not in a good way, so unproductive. I received a bit of inspiration yesterday evening and it seems to have fueled a subtle, but not unnoticeable, flame inside of me. Simply put, I’m getting back on track, to hell with my ego and the parts that hold me back. I historically have had a high risk tolerance, however, in recent years I have dramatically reduced that threshold to risk but I need to break free from the chains that hold me down. There will be a day, a day not so far away, that I will be able to strike it out on my own. Make my own way in the world and have financial freedom to work from anywhere in the world. Not 100% how yet but that doesn’t really matter, all that matters is that it’s going to happen.
 

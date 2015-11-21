@@ -3,7 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
+
 
 This week was filled with a bunch of fun code related activities from lightning talks, frontend JS validations, frontend styling and jQuery mobile menus. It’s been an interesting week with lots of new learning experiences. It’s all kind of merged into a single day it seems but it was, for me, a very productive and educational experience.
 

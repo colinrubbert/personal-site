@@ -4,10 +4,10 @@ title: Amateur and Proud
 permalink: amateur-and-proud
 ---
 
-# {{ page.title }}
 
 
-In modern times it seems to be that when we’re called amateurs we take that as an insult, we feel our skill is being attacked, our lack of experience and pay makes us less than the professional, when in reality we should be taking it as a badge of honor and embrace our status of amateur. First I think we need to define what amatuer and see where the word was derived from, once we do that I think it will be very clear that being an amateur is a good thing if not a **GREAT** thing. Amateur - a person who engages in a pursuit on an unpaid basis. Pretty damn simple, to me that reads as someone who does something because they want to not because they are made to by having cash dangled over them. The word amateur is actually derived from the latin word amare which translates to “to love” so what an amateur really is is someone who loves what they are doing. They do it because of the purity of what it is, they love it, they want it, and they want to explore it to limitless depths.  So you tell me, would you rather embrace your status of amateur or do you want to take it as an insult because you aren’t a pro. 
+
+In modern times it seems to be that when we’re called amateurs we take that as an insult, we feel our skill is being attacked, our lack of experience and pay makes us less than the professional, when in reality we should be taking it as a badge of honor and embrace our status of amateur. First I think we need to define what amatuer and see where the word was derived from, once we do that I think it will be very clear that being an amateur is a good thing if not a **GREAT** thing. Amateur - a person who engages in a pursuit on an unpaid basis. Pretty damn simple, to me that reads as someone who does something because they want to not because they are made to by having cash dangled over them. The word amateur is actually derived from the latin word amare which translates to “to love” so what an amateur really is is someone who loves what they are doing. They do it because of the purity of what it is, they love it, they want it, and they want to explore it to limitless depths.  So you tell me, would you rather embrace your status of amateur or do you want to take it as an insult because you aren’t a pro.
 
 > A professional writer is an amateur who didn't quit.
 > ~ Richard Bach

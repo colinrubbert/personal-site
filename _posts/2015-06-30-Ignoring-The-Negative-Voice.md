@@ -4,7 +4,7 @@ title: Ignoring The Negative Voice
 permalink: ignoring-the-negative-voice
 ---
 
-# {{page.title}}
+
 
 We sometimes have a negative little voice in our head telling us to not do something because it’s scary, we’re going to fail, or we’re just not good enough. This voice is a nuisance and doesn’t deserve our attention and for the most part it’s a good thing to ignore this voice. The voice will always lead you down a path of missed opportunities and regret.
 

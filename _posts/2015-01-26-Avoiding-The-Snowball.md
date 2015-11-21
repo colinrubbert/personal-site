@@ -4,7 +4,7 @@ title: Avoiding The Snowball
 permalink: avoiding-the-snowball
 ---
 
-# {{ page.title }}
+
 
 It’s far too easy to get distracted in this world. I unfortunately have been experiencing this in troves. Lately I’ve been slacking on the things that I have set as goals and requirements for my day to day activities. I’ve started to lose sight of what is really necessary to continue to push forward into a positive direction. Opting for instant gratification versus long term development. It’s a bitch and a struggle for me to stay focused sometimes on what is necessary when there are things that just feel good right now. Instant gratification doesn’t get us anywhere in life, it can’t be sustained and it’s definitely not scalable. Instant gratification destroys opportunities for the future. It focuses too much on the now. While I feel like being in the moment and living for the now is incredibly important there is a difference between living for short gains now or building foundations now for massive gains later.
 

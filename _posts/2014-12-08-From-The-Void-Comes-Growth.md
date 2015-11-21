@@ -4,7 +4,7 @@ title: From The Void Comes Growth
 permalink: from-the-void-comes-growth
 ---
 
-# {{ page.title }}
+
 
 There are times in your life that you will go through tragic losses: friends, romantic partners, parents, siblings, children, etc. The likelihood that you will be on the receiving end of this sometime in your life is very high. The pain will be severe and it will feel unbearable. Truly, it shouldn’t feel any less than devastating. These losses will be tragic and devastating because you invested a great deal of time and emotion to build that relationship. Pieces of you fade away and you won’t notice them disappear, the voids that are opened will be filled with pleasure, caring, and love of the particular person. This investment in someone else is why it hurts so much when they are gone, there is now a void where that person had previously taken up space and where before that your interests were what filled the space. The experience of loss can be quite tragic and it can feel incredibly lonely and desperate but the number one rule is that it **ALWAYS** gets better. There will be a day that you will realize you no longer miss them or are hurt by the loss. One day the pain switch will be turned off. I’ve made it to this point recently or rather have had that “ah-ha” moment of self reflection and noticed that I am past the pain stage.
 

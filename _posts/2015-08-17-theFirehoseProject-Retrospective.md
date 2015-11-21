@@ -4,7 +4,7 @@ title: The Firehose Project - Retrospective
 permalink: thefirehoseproject-retrospective
 ---
 
-# {{page.title}}
+
 
 I’ve had a few days now to come to terms with the fact that theFirehoseProject is all over. It’s been an amazing ride over the last 3 months and the skills I learned will leverage me into my next career pivot. I’ve met some really great people, experienced horrible frustrations, and felt amazing triumphs. I’ve went from slowly trudging through the Rails tutorial sea of mud to learning how to be a web developer. To have been able to accelerate my skill acquisition in this way would have been damn near impossible had I continued to do it on my own. It truly has been an amazing program to be a part of and it is easily one of the best decisions I have ever made. In a lot of ways the Firehose Project has brought me a significantly higher quality of life than I had prior to starting.
 

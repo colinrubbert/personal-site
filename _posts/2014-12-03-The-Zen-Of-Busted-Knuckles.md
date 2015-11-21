@@ -4,7 +4,7 @@ title: The Zen Of Busted Knuckles
 permalink: the-zen-of-busted-knuckles
 ---
 
-# {{ page.title }}
+
 
 I’m not a very angrily reactive man, for the most part it takes me some real severe agitation for me to snap or a prolonged build up without a release or relaxation period. In many of more recent adult years I have learned to manage and tame my anger, especially in constructive manners. This has not been the case for the majority of my life, when I was younger I was quite angry and snapped far more frequent than I ever would now. This maturity of emotions can come with age but most of my ability to calm myself is from exploring what makes me angry and letting it go, especially if it doesn’t serve any positive outcomes. The thing that has helped the most is being situationally aware and mindful of my emotions and feelings. Often times when we snap it’s because of a lack of situational awareness and mindfulness, we don’t see the emotions that we are feeling and instead react to the situation. Cars are the thing that still, as much as I try not to, get me to a point of frustration and anger that makes me snap.
 

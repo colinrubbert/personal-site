@@ -4,7 +4,7 @@ title: A Resolution For Better Perspective
 permalink: a-resolution-for-better-perspective
 ---
 
-# {{ page.title }}
+
 
 With the new year comes new years resolutions and promises to ourselves. Really it’s the best way to start off a new year with ambition and excitement about making a change in our lives. It’s positive, good, and empowering. Unfortunately changing the things that matter is hard and we have big expectations for the change we choose to make. That’s why when we eventually give up, and most of us will, on our new year’s resolutions we feel even shittier about it. Things are hard, life happens, and we get curve balls thrown at us all the time. You would think by the time you are an adult that we would’ve been able to read the pitch and hit the curve ball squarely out of the park but life isn’t that way. Shit happens and it happens in troves. This sounds like it’s already getting pretty dark and negative. Yes, life does suck sometimes and whenever you get ahead it always seems like there is something to kick your ass back where it belongs, behind where you think you should be.
 

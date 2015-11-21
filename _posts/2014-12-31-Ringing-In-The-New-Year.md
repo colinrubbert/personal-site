@@ -4,7 +4,7 @@ title: Ringing In The New Year
 permalink: ringing-in-the-new-year
 ---
 
-# {{ page.title }}
+
 
 That’s it folks, in less that 24 hours another year will be over and put in the history books. 2014 was a pretty good year for many of us. It had highs, lows, and in betweens but 2015 is going to be a big year. I can only speak for myself but as far as I can see it there are some quite exciting days ahead. I’ve already setup some goals, challenges, and experiences that will take shape in 2015. There will be some additions to the site and my reach to everyone, more photos, more writing and special features, and stories from my experiences. There are exciting times on the horizon and I plan to make 2015 an extraordinary year. In the immortal words of Dr. Suess;
 

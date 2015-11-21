@@ -4,7 +4,7 @@ title: The Firehose Project - Week 9
 permalink: thefirehoseproject-week-9
 ---
 
-# {{page.title}}
+
 
 Three quarters of the way through theFirehoseProject wrapped up, week 9 is over. Painting a car, the 4th of July holiday weekend, and the Women’s World Cup final (which was AMAZING, hell yes USA! Carli Lloyd, what a beast but I digress) kind of threw me off my schedule a bit so I didn’t get as much in as I would’ve liked, such is life. What I did get in, in terms of coding, was very useful and will be extremely beneficial as I move forward with my career. My week has covered foreign_key associations, learning how to test, STI (single table inheritance), moving forward with lightning talks and troubleshooting virtual layers. Looking back even with the holiday I managed to fit a lot in this week! So where we go.
 
@@ -18,4 +18,4 @@ Building upon the task I had just completed we needed to implement STI (single t
 
 With continued interest with last weeks idea of Firehose lightning talks I continued with theorizing the logistics of the talks and prepping for my own talk. I’ve got to say I’m really excited about this, I think this will be an excellent way for us, the Firehosers, to build a really great community, teach each other, and share our interests. Like I said I’m excited for this idea and so I got a start on my prepping. Now I’m doing my talk on Jekyll and since I played with it on a different machine I needed to setup my dev environment so I could use it on my primary computer. Which I’m using VirtualBox and Vagrant to host my dev environment and while I LOVE virtual machines, troubleshooting issues can be an absolute nightmare! That’s what I dealt with a nightmare, nothing was working, and so I had to dive into Vagrant and Jekyll and figure out what was going on. Sometimes being a developer has nothing to do with developing anything and everything to do about getting your environment setup. An hour later of fighting with the damn virtual machine I figured out how to get things working, lesson learned for my lighting talk.
 
-This week was pretty awesome, great socializing experiences and great coding experiences. Each week I learn more and more and the further down the rabbit hole I chase this thing called web development the more I find myself feeling like I am exactly where I should be, I love it! This next week will be even better, with more time available to me and more things I want to accomplish I’ve got my work cut out for me and I’m looking forward to it. 
+This week was pretty awesome, great socializing experiences and great coding experiences. Each week I learn more and more and the further down the rabbit hole I chase this thing called web development the more I find myself feeling like I am exactly where I should be, I love it! This next week will be even better, with more time available to me and more things I want to accomplish I’ve got my work cut out for me and I’m looking forward to it.

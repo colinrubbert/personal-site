@@ -4,7 +4,7 @@ title: We're All On Borrowed Time
 permalink: were-all-on-borrowed-time
 ---
 
-# {{page.title}}
+
 
 Having experienced Death’s icy grips at least twice in my short 27 years on this Earth I have a unique perspective on just how short life is and can be. I’ve been living on borrowed time for nearly a decade now and then again a little over 5 years ago, simply put I should not be here writing this, I should be 6 feet under but I’m not, fortunately. I previously lived a very fast paced and risk heavy lifestyle which resulted in my certain death and only with the assistance of my father and EMT’s did I get to escape Death’s grip. Having come to the conclusion that next time I won’t be so fortunate I decided to take my borrowed time and use it to my advantage. I straightened out my life and got rid of the risky behaviors that would’ve eventually resulted in my inability to escape Death. Everything I do from this point on is a success, failures are success, surviving another day is a success, literally anything that I do is a success because I have, against all odds, been fortunate to have another shot at life and I’m doing my damnedest to take advantage of that.
 

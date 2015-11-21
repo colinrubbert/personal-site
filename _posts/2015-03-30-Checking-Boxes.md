@@ -4,7 +4,7 @@ title: Checking Boxes
 permalink: checking-boxes
 ---
 
-# {{page.title}}
+
 
 I’ve been spending a lot of time focusing on web development recently, as if you didn’t know. I know I’ve discussed the joys of learning something new and I really can’t stress enough how important it is for everyone to spend some time and learn a new skill. Learning skills aren’t pointless because you don’t use them at work or because they don’t directly pertain to your life. Like an accountant learning to draw would have nothing to do with their line of work but the development stage of learning something new especially something completely outside of your wheel house will help develop new insights and pathways into your thinking process. Every time I learn something new I perceive a noticeable difference in how I approach problems. The crazy thing is that you never know what you will find when you take a chance on a new skill.
 

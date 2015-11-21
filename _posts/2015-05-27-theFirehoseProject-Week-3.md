@@ -4,7 +4,7 @@ title: The Firehose Project - Week 3
 permalink: thefirehoseproject-week-3
 ---
 
-# {{page.title}}
+
 
 Week 3 of theFirehoseProject has been easy, difficult, informative, frustrating, and a ton of more emotions in between. The week hasn’t been imparticularly that difficult and I have managed to get a lot done. Nomster is officially done and I’m pretty psyched with where I am at in my progression of the course. 3 weeks completed and 2 apps already done.
 

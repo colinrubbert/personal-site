@@ -4,7 +4,7 @@ title: Take A Step Back
 permalink: take-a-step-back
 ---
 
-# {{page.title}}
+
 
 Sometimes you just need to think things through all the way before jumping into something. I’m the type of person who just loves to jump in. I get excited what can I say? I’m anxious to do something new and often times I forget that I haven’t quite thought everything through. It results in having to back peddle and fix a shit ton of mistakes.
 

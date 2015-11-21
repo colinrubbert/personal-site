@@ -4,7 +4,7 @@ title: What Would Han Do?
 permalink: what-would-han-do
 ---
 
-# {{page.title}}
+
 
 Our lives require a certain level of dedication to how we approach the things we want. With the right mindset and daily motto we can achieve all of the things that we wish would could do in our lives. That’s why you should always live your life by these four simple letters; WWHD. *What would Han do?* Han our favorite intergalactic smuggler and all around badass. Do you know what Han would do? He’d shoot first! Yeah that’s right George Lucas you twisted bastard Han shot first, always! Prick trying to change the story, he’s a smuggling badass he doesn’t wait to potentially get shot down first. But I digress.
 

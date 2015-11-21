@@ -4,7 +4,7 @@ title: The Firehose Project - Week 4
 permalink: thefirehoseproject-week-4
 ---
 
-# {{page.title}}
+
 
 Oh boy what an exciting and brutal week! The training wheels were taken off and I’m a bit wobbly still. My forward momentum isn’t quite efficient enough to keep me from touching down a foot frequently to brace myself from impacting the ground. The week was surrounded with free reign to build something I’m passionate about.
 

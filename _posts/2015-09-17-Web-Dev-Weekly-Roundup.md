@@ -3,7 +3,7 @@ layout: post
 title: Web Dev Weekly Roundup
 ---
 
-# {{page.title}}
+
 
 **BOOM!** What’s that? Oh just the crack from what was another round of epic lightning talks. This week may not have been heavy with code but it sure was heavy with a lot of great information about code, seeing opportunities, and capitalizing on the situation but there was still code, there’s always code. I love coding too much now that every week revolves around it in one form or the other. So lets get started.
 

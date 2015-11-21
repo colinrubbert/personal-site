@@ -4,7 +4,7 @@ title: The Firehose Project - Week 13
 permalink: thefirehoseproject-week-13
 ---
 
-# {{page.title}}
+
 
 Now that week 13 is a wrap it means that my time at the Firehose Project is pretty much over, well in the sense of actual accountability and progression through the course. Last week wasn’t packed with as much code as I would’ve like it to have been but I was also on a micro vacation which I really needed. With the Firehose Project coming near an end the scope of my tasks have become less broad and more focused with the primary emphasis on the Chess application, that being said some really great things have happened this last week that got me excited and it was all because of suggestions from my mentors and the founders that I had the opportunity to experience them.
 
