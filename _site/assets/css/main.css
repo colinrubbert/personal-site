@@ -279,6 +279,9 @@ blockquote p {
   display: inline;
   font-style: italic; }
 
+code {
+  background: #ececec; }
+
 header {
   box-shadow: 0 2px 8px #aaa; }
   header .nav-container {

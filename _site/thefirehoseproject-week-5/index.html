@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>COLIN RUBBERT .COM</title>
+  <meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/js/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+</head>
+
+  <body>
+
+    <nav class="mobile-nav">
+  <a href="/about" > About </a>
+  <a href="/articles" > Articles </a>
+  <a href="/photography" > Photography </a>
+  <a href="#" > Work </a>
+</nav>
+
+
+<header id="header">
+
+  <div class="nav-container">
+    <div class="brand">Colin Rubbert</div>
+
+    <nav class="site-nav">
+      <a href="/about" > About </a>
+      <a href="/articles" > Articles </a>
+      <a href="/photography" > Photography </a>
+      <a href="#" > Work </a>
+    </nav>
+
+    <div class="mobile-nav-toggle">
+      <span></span>
+    </div>
+  </div> <!-- End of Navigation Container -->
+
+</header>
+
+
+    <div class="posts-wrapper">
+      <h1 id="the-firehose-project---week-5">The Firehose Project - Week 5</h1>
+
+<p>Week 5 is in the bag. Today I start moving on to week 6 of theFirehoseProject dev bootcamp. It’s been another great week of learning, frustrations, and breakthroughs. With being roughly a third of the way through the program this is a big milestone of progression. This is also the week that I can my learning into overdrive so the coming weeks will be learning on steroids. Anyways week 5 seems to have marked the week of things starting to become clearer and clearer in my approach to building out my apps.</p>
+
+<p>I’ve been sitting here trying to remember all the things that I learned this week and attempt to summarize the numerous rabbit holes I chased this week but I forgot to jot them down in the moment and it’s a bit hazy. There seems to be four major overall arcs of the week; passion projects, test driven development, simple things can lead to big frustrations (the recurring notion of any developer), and take a break. These things are what I really pulled from the week and which were either great realizations in what was going on with coding or they were reminders of important information.</p>
+
+<p>The big thing is having a passion project. Passion projects, as the name would describe, are projects that you can work on that you would be passionate about. Caring and being passionate about something will go a long way to keep you motivated in those moments of frustration that you will undoubtedly encounter. I started my passion project a couple weeks ago and it’s really starting to form nicely. Had I started doing this and wasn’t passionate about it, anytime I’d run into a massive frustration I probably would’ve either said ‘screw it’ lets do something new or I would’ve put it off for as long as I could but because I have a passion and emotional investment into my project I pushed through the frustrations and figured out my problems. The passion project is an important step in really solidifying the foundation of learning how to be a developer. It’s what takes what you are learning in coursework and applies to reality. The most beneficial portion of having a passion project is that you have no guideline or tutorial to follow, you have to think like a developer, you have to account for edge cases, you have to figure how data relationships work and then you need to build you blueprint. Passion projects are super beneficial and should be part of any curriculum.</p>
+
+<p>Next we’ve got TDD or Test Driven Development. TDD is the process of writing tests when building out a new feature for your application. What this does is ensures that the feature that you are building will work properly. If it’s not obvious to you at this point; having things work is important. I just started on the TDD course and admittedly haven’t managed to crank out that much yet, that will change in the next couple days, but I’ve already learned more in the limited time I’ve spent on it than I have in previous Ruby on Rails training courses. It really makes the most sense to approach building features out using TDD. TDD gives you the advantage of trying to build a feature without having to break it for everyone else or playing a guessing game of whether or not this is going to work. I can tell you from some of the headaches I’ve faced that getting more complex information on errors is far more beneficial than trying to get info from when your program pukes while actually running the feature.</p>
+
+<p>Alright simple things will lead to big headaches and frustrations. I believe this is the third week in a row that I have mentioned something of this nature but it is a recurring issue for most developers. With my application I’ve been working with nested route resources and this threw me for a loop last night. Not in how nested routes work but how they apply to controllers when you want to create additional features. Not fully understanding how things were working and not having touched on this in any tutorials that I could remember I was running into an undefined method error that just wouldn’t cut me a break. For nearly an hour I was trying to figure out what the hell was going on and I was very nearly ready to quit for the night, regroup and re-attack it today but then I found the key with the help of an obscure blog (stack overflow was a total failboat in my search attempts). What I was missing in my ‘new’ method was finding the value of the parent, all I had to do was place a “@customer = Customer.find(params[:customer_id]” then just need to add “@customer” to my simple_form form and boom she’s working like a champ. What I was missing was simple but because I hadn’t experienced it yet I wasn’t sure what I was looking for, it was a great lesson, one that is fairly common, and one that I won’t forget now. The simple frustrations are the ones that lead to where we need to be and grow our knowledge, just don’t give up.</p>
+
+<p>The final thing that I learned this week was <strong>take a break</strong>. For 5 weeks now I have focused nearly all of my spare attention and even my attention when I should be focusing on other things. I hadn’t hung out with friends in a while, hadn’t took any photos in a long while (my other hobby), and generally just hadn’t gotten away from a computer. I needed to have some socialization, real human contact, and absorb myself in something that didn’t require a computer for a little bit. There is a lot to be said for taking breaks and regrouping your thoughts. I’ve worked in IT for quite a while now and I do have to say that being able to get involved with something that doesn’t require a computer is extremely beneficial for making your life more balanced and less stressful. Remember getting your pasty skin out in the sunshine is good for you, your brain and body will thank you for the boosted Vitamin D levels.</p>
+
+<p>This week was once another a great week in theFirehoseProject bootcamp. It was filled with personal victories, some large frustration over small problems, and building up my foundations. Quality lessons have been learned and making it through my first third of the program has me feeling less and less like an imposter everyday. Looking forward to the next week and diving really deep and cranking out some great work in the next week. Keep on coding!</p>
+
+    </div>
+
+    <section id="contact" class="contact">
+  <div class="contact-container">
+
+    <div class="contact-wrapper">
+      <div class="contact-title">Contact Me</div>
+
+      <div class="form">
+        <form action="//formspree.io/your@email.com" method="POST">
+
+          <div class="contact-info-group">
+            <label>
+              <span>Name</span>
+              <input type="text" name="name">
+            </label>
+            <label>
+              <span>Email</span>
+              <input type="email" name="_replyto">
+            </label>
+          </div>
+
+          <div class="contact-info-message">
+            <label>
+              <span>Tell me about you or your project</span>
+              <input type="textarea" name="message">
+            </label>
+          </div>
+
+          <div class="submit-wrap">
+            <input type="submit" value="Send">
+          </div>
+        </form>
+      </div> <!-- End of form -->
+
+    </div> <!-- End of Contact Wrapper -->
+
+  </div> <!-- End Contact Container -->
+</section>
+
+
+    <footer id="footer">
+
+  <div class="nav-container">
+    <div class="brand">Colin Rubbert</div>
+
+    <nav class="site-nav">
+      <a href="/about" > About </a>
+      <a href="/articles" > Articles </a>
+      <a href="/photography" > Photography </a>
+      <a href="#" > Work </a>
+    </nav>
+
+  </div>
+</footer>
+
+
+    <script src="/assets/js/jquery-2.1.4.min.js"></script>
+<script src="/assets/js/functions.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<link rel="stylesheet" href="/assets/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/assets/js/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<link rel="stylesheet" href="/assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+<script type="text/javascript" src="/assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+  </body>
+</html>
