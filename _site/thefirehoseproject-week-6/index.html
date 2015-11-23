@@ -40,8 +40,13 @@
 </header>
 
 
+    <div class="posts-hero-wrapper">
+      <div class="articles-post-hero" style="background-image: url(/assets/img/compressed//)">
+        <h1>The Firehose Project - Week 6</h1>
+      </div>
+    </div>
+
     <div class="posts-wrapper">
-      <h1>The Firehose Project - Week 6</h1>
       <p>Another week in the bank, today I’m rounding out week 6 of theFirehoseProject bootcamp. Like every week of this bootcamp I’ve learned some cool things, battled with a few others, and found some wonderful pieces of advice. I’ve gone from sticking to a template and building a simple CRUD application to starting to implement my own features. Finding the resources necessary to solve a problem isn’t too difficult in the Rails community, in fact most everything has been done in one way or the other, doing some Googling usually comes up with a dozen posts and articles about that can be extrapolated to your own needs. Let’s get started with what I learned this week.</p>
 
 <p>Battling nested resources is a bitch, plain and simple. While it can make some things very easy and intuitive it will leave others to become an impossible battle of attrition. My intention was to have my ‘workorders’ resources to be nested inside of my ‘customers’ resources. Seemed logical at the time, my workorders belong to my customers and I want my customer’s id to be tagged in my workorder so that I can do some filtering, makes complete sense. Because I must be a glutton for punishment and want to complicate things further I wanted to make sure my ‘techs’ (the users of my applications) to be able to have their id’s tagged in my customer’s workorders. On paper this seems to be a very easy thing but in reality it was like running up a steep hill trying to pull a semi up with you, wasn’t happening. Especially not in any elegant or beautiful way.</p>

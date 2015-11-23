@@ -4,13 +4,16 @@
 
     <h3 class="articles-section-title">Articles</h3>
 
-      {% for post in paginator.posts %}
-        <div class="articles-list">
-          <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-          <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
-          <a href="{{ post.url }}"><p>Read more ...</p></a>
-        </div>
-      {% endfor %}
+      <div class="articles-list">
+        {% for post in paginator.posts %}
+          <div class="articles-post-container">
+            <img class="articles-post-thumbnail" src="{{ site.baseurl }}/assets/img/thumbs/{{ post.image-category }}/{{ post.thumbnail }}" />
+            <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+            <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+            <a href="{{ post.url }}"><p>Read more ...</p></a>
+          </div>
+        {% endfor %}
+      </div>
 
       <!-- Pagination links -->
       <div class="pagination">
