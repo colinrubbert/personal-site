@@ -730,8 +730,9 @@ header {
     background-position: 50% 50%; }
     .posts-hero-wrapper .articles-post-hero h1 {
       text-align: center;
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.5); }
+      color: #fff;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+      padding: 20px; }
 
 .articles-container {
   max-width: 800px;
@@ -746,7 +747,35 @@ header {
     flex-flow: row wrap;
     justify-content: space-around; }
     .articles-container .articles-list .articles-post-container {
-      width: 30%; }
+      display: flex;
+      -webkit-box-pack: center;
+      -moz-box-pack: center;
+      box-pack: center;
+      -webkit-justify-content: center;
+      -moz-justify-content: center;
+      -ms-justify-content: center;
+      -o-justify-content: center;
+      justify-content: center;
+      -ms-flex-pack: center;
+      -webkit-box-align: center;
+      -moz-box-align: center;
+      box-align: center;
+      -webkit-align-items: center;
+      -moz-align-items: center;
+      -ms-align-items: center;
+      -o-align-items: center;
+      align-items: center;
+      -ms-flex-align: center;
+      height: 200px;
+      width: 100%;
+      margin-bottom: 20px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50% 50%; }
+      .articles-container .articles-list .articles-post-container h2 {
+        text-align: center;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+        color: #fff; }
   .articles-container .articles-pagination {
     margin: 0 auto;
     text-align: center; }

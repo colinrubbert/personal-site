@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Web Dev Weekly Roundup
+thumbnail: places-2-thumb.jpg
+image-category: places
+hero: places-2.jpg
 ---
 
 Another week done and gone. My big concerns and focuses this week in my web dev pursuits was more so on the business side of things. With my recent decision to go freelance I’ve launched into research and development mode. Having a history of IT consulting, working for small businesses, and knowing many small business owners I definitely have some solid knowledge of how a business should be ran and more importantly how a business SHOULDN’T be ran. The difficulty is that when it comes to the web design and development I don’t know a lot of the ins and outs of this world, in terms of business ownership at least. This lack of knowledge has launched me into R&D mode.

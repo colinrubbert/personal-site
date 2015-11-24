@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Web Dev Weekly Roundup
+thumbnail: places-1-thumb.jpg
+image-category: places
+hero: places-1.jpg
 ---
 
 **WooHoo another week done and much accomplished.** This week I got an MVP done, an MVP of my business website (which I’ll end up trashing and starting over because why not), and halfway through building a custom Jekyll theme that I can use for potential clients in the near future. I switched up my mindset this last week and kicked back into *getting shit done* mode.
