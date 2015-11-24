@@ -362,6 +362,119 @@ header {
   .mobile-nav.is-open {
     display: block;
     transform: translateY(0%); } }
+#alt-header {
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-image: url(/assets/img/compressed/places/places-35.jpg); }
+  #alt-header .alt-nav-container {
+    max-width: 800px;
+    height: 100px;
+    margin: 0 auto; }
+    #alt-header .alt-nav-container .site-nav {
+      float: right;
+      padding: 40px 30px 0 0; }
+      #alt-header .alt-nav-container .site-nav a {
+        color: #fff;
+        display: inline-block;
+        margin-left: 20px; }
+        #alt-header .alt-nav-container .site-nav a:hover {
+          border-bottom: 3px solid #FF9999; }
+    #alt-header .alt-nav-container .brand {
+      float: left;
+      padding: 20px 0 0 30px;
+      font-family: "Bree Serif", sans-serif;
+      font-size: 24px;
+      line-height: 60px;
+      letter-spacing: 1px;
+      color: #fff; }
+    #alt-header .alt-nav-container .alt-mobile-nav-toggle {
+      display: none;
+      width: 50px;
+      height: 50px;
+      float: right;
+      margin: 25px 20px 0 0;
+      align-items: center; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle:selection {
+        background: transparent; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle:-moz-selection {
+        background: transparent; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle span,
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle span:before,
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle span:after {
+        content: "";
+        display: block;
+        height: 2px;
+        width: 100%;
+        background: #333;
+        position: relative;
+        transition: all 0.3s ease-in-out; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle span:before {
+        top: 15px; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle span:after {
+        top: -17px; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle.is-open span {
+        background: transparent; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle.is-open span:before, #alt-header .alt-nav-container .alt-mobile-nav-toggle.is-open span:after {
+        transform-origin: center;
+        transform: rotate(45deg);
+        top: 0; }
+      #alt-header .alt-nav-container .alt-mobile-nav-toggle.is-open span:before {
+        transform: rotate(-45deg); }
+
+.alt-mobile-nav {
+  position: absolute;
+  width: 100%;
+  background: #fff;
+  padding: 60px 0 20px;
+  transform: translateY(-100%);
+  transition: all 0.3s ease-in-out; }
+  .alt-mobile-nav a {
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 10px; }
+    .alt-mobile-nav a:hover {
+      color: #FF9999; }
+
+@media (max-width: 768px) {
+  #alt-header .alt-nav-container .site-nav {
+    display: none; }
+  #alt-header .alt-nav-container .alt-mobile-nav-toggle {
+    display: flex; }
+
+  .alt-mobile-nav.is-open {
+    display: block;
+    transform: translateY(0%); } }
+.home-hero {
+  display: flex;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  box-pack: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -o-justify-content: center;
+  justify-content: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  box-align: center;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -o-align-items: center;
+  align-items: center;
+  -ms-flex-align: center;
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-image: url(/assets/img/compressed/places/places-35.jpg); }
+
 .about-container {
   max-width: 800px;
   margin: 0 auto;
@@ -634,6 +747,9 @@ header {
     justify-content: space-around; }
     .articles-container .articles-list .articles-post-container {
       width: 30%; }
+  .articles-container .articles-pagination {
+    margin: 0 auto;
+    text-align: center; }
 
 .posts-wrapper {
   max-width: 800px;

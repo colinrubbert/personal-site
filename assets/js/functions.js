@@ -14,6 +14,14 @@ function mobileNav() {
       $('.mobile-nav-toggle, .mobile-nav').addClass('is-open');
     }
   });
+  $('.alt-mobile-nav-toggle').on('click', function(){
+    var status = $(this).hasClass('is-open');
+    if(status){
+      $('.alt-mobile-nav-toggle, .alt-mobile-nav').removeClass('is-open');
+    } else {
+      $('.alt-mobile-nav-toggle, .alt-mobile-nav').addClass('is-open');
+    }
+  });
 }
 
 // Function for fancyBox implementation

@@ -1,6 +1,7 @@
 ---
 ---
 // Image Locations
+$home-hero-path: '{{ site.baseurl }}/assets/img/compressed/places/{{ site.data.layout.home-hero }}'
 $hero-path: '{{ site.baseurl }}/assets/img/compressed/{{ page.image-category }}/{{ page.hero }}'
 $thumbnail-path: '{{ site.baseurl }}/assets/img/thumbs/{{ post.image-category }}/{{ post.thumbnail }}'
 
@@ -20,6 +21,8 @@ $thumbnail-path: '{{ site.baseurl }}/assets/img/thumbs/{{ post.image-category }}
 
 // 3 - Modules
 @import '3-modules/header'
+@import '3-modules/alt-header'
+@import '3-modules/home'
 @import '3-modules/about'
 @import '3-modules/contact'
 @import '3-modules/photography'
