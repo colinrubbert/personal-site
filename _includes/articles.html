@@ -6,11 +6,13 @@
 
       <div class="articles-list">
         {% for post in paginator.posts %}
-          <div class="articles-post-container" style="background-image: url({{ site.baseurl }}/assets/img/compressed/{{ post.image-category }}/{{ post.hero }})">
-            <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+          <div class="articles-post-container">
+            <div class="articles-image-container" style="background-image: url({{ site.baseurl }}/assets/img/compressed/{{ post.image-category }}/{{ post.hero }})">
+              <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+            </div>
+              <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+              <a href="{{ post.url }}"><p>Read more ...</p></a>
           </div>
-            <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
-            <a href="{{ post.url }}"><p>Read more ...</p></a>
         {% endfor %}
       </div>
 
