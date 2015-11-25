@@ -2,6 +2,9 @@
 layout: post
 title: Starting Anew
 permalink: starting-anew
+thumbnail: places-35-thumb.jpg
+image-category: places
+hero: places-35.jpg
 ---
 
 

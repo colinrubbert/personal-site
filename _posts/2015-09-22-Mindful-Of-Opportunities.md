@@ -2,6 +2,9 @@
 layout: post
 title: Mindful of Opportunities
 permalink: mindful-of-opportunities
+thumbnail: places-8-thumb.jpg
+image-category: places
+hero: places-8.jpg
 ---
 
 

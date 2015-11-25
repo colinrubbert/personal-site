@@ -2,6 +2,9 @@
 layout: post
 title: Attractive Collisions
 permalink: attractive-collisions
+thumbnail: places-67-thumb.jpg
+image-category: places
+hero: places-67.jpg
 ---
 
 

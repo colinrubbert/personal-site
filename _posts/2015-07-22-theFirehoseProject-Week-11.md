@@ -2,6 +2,9 @@
 layout: post
 title: The Firehose Project - Week 11
 permalink: thefirehoseproject-week-11
+thumbnail: places-28-thumb.jpg
+image-category: places
+hero: places-28.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Care Less About Your "Friends" and Make Every Day A Tuesday
 permalink: care-less-about-your-friends-and-make-every-day-a-tuesday
+thumbnail: places-36-thumb.jpg
+image-category: places
+hero: places-36.jpg
 ---
 
 

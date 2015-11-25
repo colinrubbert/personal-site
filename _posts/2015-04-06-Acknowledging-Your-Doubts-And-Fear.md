@@ -2,6 +2,9 @@
 layout: post
 title: Acknowledging Your Doubts And Fear
 permalink: acknowledging-your-doubts-and-fear
+thumbnail: places-54-thumb.jpg
+image-category: places
+hero: places-54.jpg
 ---
 
 

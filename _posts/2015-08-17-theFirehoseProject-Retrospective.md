@@ -2,6 +2,9 @@
 layout: post
 title: The Firehose Project - Retrospective
 permalink: thefirehoseproject-retrospective
+thumbnail: places-16-thumb.jpg
+image-category: places
+hero: places-16.jpg
 ---
 
 

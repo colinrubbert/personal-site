@@ -2,6 +2,9 @@
 layout: post
 title: Early Morning Reinforcements
 permalink: early-morning-reinforcements
+thumbnail: places-74-thumb.jpg
+image-category: places
+hero: places-74.jpg
 ---
 
 

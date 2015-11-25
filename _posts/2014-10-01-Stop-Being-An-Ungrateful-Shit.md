@@ -2,6 +2,9 @@
 layout: post
 title: Stop Being An Ungrateful Shit
 permalink: stop-being-an-ungrateful-shit
+thumbnail: places-84-thumb.jpg
+image-category: places
+hero: places-84.jpg
 ---
 
 

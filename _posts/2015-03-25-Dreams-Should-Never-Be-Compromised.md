@@ -2,6 +2,9 @@
 layout: post
 title: Dreams Should Never Be Compromised
 permalink: dreams-should-never-be-compromised
+thumbnail: places-51-thumb.jpg
+image-category: places
+hero: places-51.jpg
 ---
 
 

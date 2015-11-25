@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Web Dev Weekly Roundup
+thumbnail: things-4-thumb.jpg
+image-category: things
+hero: things-4.jpg
 ---
 
 

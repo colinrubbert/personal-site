@@ -2,6 +2,9 @@
 layout: post
 title: Value of Community
 permalink: value-of-community
+thumbnail: places-22-thumb.jpg
+image-category: places
+hero: places-22.jpg
 ---
 
 

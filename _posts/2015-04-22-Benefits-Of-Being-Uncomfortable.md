@@ -2,6 +2,9 @@
 layout: post
 title: Benefits Of Being Uncomfortable
 permalink: benefits-of-being-uncomfortable
+thumbnail: places-59-thumb.jpg
+image-category: places
+hero: places-59.jpg
 ---
 
 

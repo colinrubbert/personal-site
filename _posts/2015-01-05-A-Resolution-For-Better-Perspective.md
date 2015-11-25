@@ -2,6 +2,9 @@
 layout: post
 title: A Resolution For Better Perspective
 permalink: a-resolution-for-better-perspective
+thumbnail: places-53-thumb.jpg
+image-category: places
+hero: places-53.jpg
 ---
 
 

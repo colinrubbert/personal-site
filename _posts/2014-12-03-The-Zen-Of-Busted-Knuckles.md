@@ -2,6 +2,9 @@
 layout: post
 title: The Zen Of Busted Knuckles
 permalink: the-zen-of-busted-knuckles
+thumbnail: places-76-thumb.jpg
+image-category: places
+hero: places-76.jpg
 ---
 
 

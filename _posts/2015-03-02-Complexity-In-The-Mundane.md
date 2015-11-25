@@ -2,6 +2,9 @@
 layout: post
 title: Complexity In The Mundane
 permalink: complexity-in-the-mundane
+thumbnail: places-45-thumb.jpg
+image-category: places
+hero: places-45.jpg
 ---
 
 

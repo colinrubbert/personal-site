@@ -2,6 +2,9 @@
 layout: post
 title: Avoiding The Snowball
 permalink: avoiding-the-snowball
+thumbnail: places-58-thumb.jpg
+image-category: places
+hero: places-58.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Positivity Breeds Positivity
 permalink: positivity-breeds-positivity
+thumbnail: places-53-thumb.jpg
+image-category: places
+hero: places-53.jpg
 ---
 
 

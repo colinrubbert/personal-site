@@ -2,6 +2,9 @@
 layout: post
 title: Twas The Night Before Christmas
 permalink: twas-the-night-before-christmas
+thumbnail: places-11-thumb.jpg
+image-category: places
+hero: places-11.jpg
 ---
 
 

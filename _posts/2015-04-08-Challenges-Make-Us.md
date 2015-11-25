@@ -2,6 +2,9 @@
 layout: post
 title: Challenges Make Us
 permalink: challenges-make-us
+thumbnail: places-55-thumb.jpg
+image-category: places
+hero: places-55.jpg
 ---
 
 

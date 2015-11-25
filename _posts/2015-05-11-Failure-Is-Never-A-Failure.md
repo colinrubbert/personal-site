@@ -2,6 +2,9 @@
 layout: post
 title: Failure Is Never A Failure
 permalink: failure-is-never-a-failure
+thumbnail: places-37-thumb.jpg
+image-category: places
+hero: places-37.jpg
 ---
 
 

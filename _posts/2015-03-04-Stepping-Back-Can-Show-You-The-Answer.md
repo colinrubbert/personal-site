@@ -2,6 +2,9 @@
 layout: post
 title: Stepping Back Can Show You The Answer
 permalink: stepping-back-can-show-you-the-answer
+thumbnail: places-46-thumb.jpg
+image-category: places
+hero: places-46.jpg
 ---
 
 

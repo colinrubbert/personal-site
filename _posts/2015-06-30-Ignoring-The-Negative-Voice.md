@@ -2,6 +2,9 @@
 layout: post
 title: Ignoring The Negative Voice
 permalink: ignoring-the-negative-voice
+thumbnail: places-21-thumb.jpg
+image-category: places
+hero: places-21.jpg
 ---
 
 

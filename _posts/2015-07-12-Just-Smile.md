@@ -2,6 +2,9 @@
 layout: post
 title: Just Smile
 permalink: just-smile
+thumbnail: places-25-thumb.jpg
+image-category: places
+hero: places-25.jpg
 ---
 
 

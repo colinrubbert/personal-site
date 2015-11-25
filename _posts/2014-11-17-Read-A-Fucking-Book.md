@@ -2,6 +2,9 @@
 layout: post
 title: Read A Fucking Book
 permalink: read-a-fucking-book
+thumbnail: places-69-thumb.jpg
+image-category: places
+hero: places-69.jpg
 ---
 
 

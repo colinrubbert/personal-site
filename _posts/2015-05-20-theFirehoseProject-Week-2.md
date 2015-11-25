@@ -2,6 +2,9 @@
 layout: post
 title: The Firehose Project - Week 2
 permalink: thefirehoseproject-week-2
+thumbnail: places-40-thumb.jpg
+image-category: places
+hero: places-40.jpg
 ---
 
 Week 2: done and done! My second week of theFirehoseProject has come and now gone. It’s been an interesting week with some really valuable lessons learned. It’s amazing still how much I have been enjoying coding. It’s the part of my day that really brings me a sense of accomplishment and fulfillment. There is really a sense of joy and appreciation when you can see the things that you are building erect right in front of your eyes. At this point I can look back on my previous week of code and see what basically amounts to a time lapse photo of a skyscraper being built.

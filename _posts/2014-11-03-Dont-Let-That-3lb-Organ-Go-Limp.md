@@ -2,6 +2,9 @@
 layout: post
 title: Don't Let That 3LB Organ Go Limp
 permalink: dont-let-that-3lb-organ-go-limp
+thumbnail: places-61-thumb.jpg
+image-category: places
+hero: places-61.jpg
 ---
 
 

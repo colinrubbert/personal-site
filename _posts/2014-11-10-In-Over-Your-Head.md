@@ -2,6 +2,9 @@
 layout: post
 title: In Over Your Head
 permalink: in-over-your-head
+thumbnail: places-68-thumb.jpg
+image-category: places
+hero: places-68.jpg
 ---
 
 

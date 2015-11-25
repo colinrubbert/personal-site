@@ -2,6 +2,9 @@
 layout: post
 title: We're All On Borrowed Time
 permalink: were-all-on-borrowed-time
+thumbnail: places-39-thumb.jpg
+image-category: places
+hero: places-39.jpg
 ---
 
 

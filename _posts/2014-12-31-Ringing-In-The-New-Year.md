@@ -2,6 +2,9 @@
 layout: post
 title: Ringing In The New Year
 permalink: ringing-in-the-new-year
+thumbnail: places-52-thumb.jpg
+image-category: places
+hero: places-52.jpg
 ---
 
 

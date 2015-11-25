@@ -2,6 +2,9 @@
 layout: post
 title: Serendipity Of Projects
 permalink: serendipity-of-projects
+thumbnail: places-65-thumb.jpg
+image-category: places
+hero: places-65.jpg
 ---
 
 

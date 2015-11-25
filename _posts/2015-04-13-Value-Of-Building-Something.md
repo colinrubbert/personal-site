@@ -2,6 +2,9 @@
 layout: post
 title: Value Of Building Something
 permalink: value-of-building-something
+thumbnail: places-56-thumb.jpg
+image-category: places
+hero: places-56.jpg
 ---
 
 

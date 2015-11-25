@@ -2,6 +2,9 @@
 layout: post
 title: Surviving The Shit Storm
 permalink: surviving-the-shit-storm
+thumbnail: places-61-thumb.jpg
+image-category: places
+hero: places-61.jpg
 ---
 
 

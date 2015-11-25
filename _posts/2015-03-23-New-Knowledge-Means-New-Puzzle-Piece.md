@@ -2,6 +2,9 @@
 layout: post
 title: New Knowledge Means New Puzzle Piece
 permalink: new-knowledge-means-new-puzzle-piece
+thumbnail: places-50-thumb.jpg
+image-category: places
+hero: places-50.jpg
 ---
 
 

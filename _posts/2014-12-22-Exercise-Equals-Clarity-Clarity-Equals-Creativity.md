@@ -2,6 +2,9 @@
 layout: post
 title: Exercise = Clarity, Clarity = Creativity
 permalink: exercise-equals-clarity-clarity-equals-creativity
+thumbnail: places-81-thumb.jpg
+image-category: places
+hero: places-81.jpg
 ---
 
 

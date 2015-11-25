@@ -2,6 +2,9 @@
 layout: post
 title: Mindfulness For Fun and Profit
 permalink: mindfulness-for-fun-and-profit
+thumbnail: places-67-thumb.jpg
+image-category: places
+hero: places-67.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: High On Code
 permalink: high-on-code
+thumbnail: places-57-thumb.jpg
+image-category: places
+hero: places-57.jpg
 ---
 
 

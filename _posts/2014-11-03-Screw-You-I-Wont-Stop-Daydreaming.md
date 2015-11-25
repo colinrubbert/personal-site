@@ -2,6 +2,9 @@
 layout: post
 title: Screw You I Won't Stop Daydreaming
 permalink: screw-you-i-wont-stop-daydreaming
+thumbnail: places-62-thumb.jpg
+image-category: places
+hero: places-62.jpg
 ---
 
 

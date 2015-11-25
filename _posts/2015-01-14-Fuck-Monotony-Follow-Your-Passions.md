@@ -2,6 +2,9 @@
 layout: post
 title: Fuck Monotony, Follow Your Passions
 permalink: fuck-monotony-follow-your-passions
+thumbnail: places-60-thumb.jpg
+image-category: places
+hero: places-60.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Creative Growth Through Travel
 permalink: creative-growth-through-travel
+thumbnail: places-80-thumb.jpg
+image-category: places
+hero: places-80.jpg
 ---
 
 

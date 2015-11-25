@@ -2,6 +2,9 @@
 layout: post
 title: Passivity = Slavery
 permalink: passivity-equals-slavery
+thumbnail: places-69-thumb.jpg
+image-category: places
+hero: places-69.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Sprinting To Failure, Changing For Success
 permalink: sprinting-to-failure-changing-for-success
+thumbnail: places-73-thumb.jpg
+image-category: places
+hero: places-73.jpg
 ---
 
 

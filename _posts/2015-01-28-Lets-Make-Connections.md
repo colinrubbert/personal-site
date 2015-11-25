@@ -2,6 +2,9 @@
 layout: post
 title: Lets Make Connections
 permalink: lets-make-connections
+thumbnail: places-59-thumb.jpg
+image-category: places
+hero: places-59.jpg
 ---
 
 

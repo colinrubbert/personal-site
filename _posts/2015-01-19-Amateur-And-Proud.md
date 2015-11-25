@@ -2,6 +2,9 @@
 layout: post
 title: Amateur and Proud
 permalink: amateur-and-proud
+thumbnail: places-56-thumb.jpg
+image-category: places
+hero: places-56.jpg
 ---
 
 

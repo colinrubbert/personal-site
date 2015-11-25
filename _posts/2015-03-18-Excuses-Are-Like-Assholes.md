@@ -2,6 +2,9 @@
 layout: post
 title: Excuses Are Like Assholes
 permalink: excuses-are-like-assholes
+thumbnail: places-49-thumb.jpg
+image-category: places
+hero: places-49.jpg
 ---
 
 

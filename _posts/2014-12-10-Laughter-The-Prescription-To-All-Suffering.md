@@ -2,6 +2,9 @@
 layout: post
 title: Laughter - The Prescription To All Suffering
 permalink: laughter-the-prescription-to-all-suffering
+thumbnail: places-78-thumb.jpg
+image-category: places
+hero: places-78.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: The Firehose Project - Week 7
 permalink: thefirehoseproject-week-7
+thumbnail: places-20-thumb.jpg
+image-category: places
+hero: places-20.jpg
 ---
 
 

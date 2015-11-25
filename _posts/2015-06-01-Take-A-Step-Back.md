@@ -2,6 +2,9 @@
 layout: post
 title: Take A Step Back
 permalink: take-a-step-back
+thumbnail: places-43-thumb.jpg
+image-category: places
+hero: places-43.jpg
 ---
 
 

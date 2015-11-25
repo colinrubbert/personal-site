@@ -2,6 +2,9 @@
 layout: post
 title: Starting From Scratch
 permalink: starting-from-scratch
+thumbnail: places-32-thumb.jpg
+image-category: places
+hero: places-32.jpg
 ---
 
 

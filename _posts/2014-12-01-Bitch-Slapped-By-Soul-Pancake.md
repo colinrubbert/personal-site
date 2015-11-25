@@ -2,6 +2,9 @@
 layout: post
 title: Bitch Slapped By Soul Pancake
 permalink: bitch-slapped-by-soul-pancake
+thumbnail: places-75-thumb.jpg
+image-category: places
+hero: places-75.jpg
 ---
 
 

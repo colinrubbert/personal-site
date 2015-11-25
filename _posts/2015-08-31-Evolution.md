@@ -2,6 +2,9 @@
 layout: post
 title: Evolution
 permalink: evolution
+thumbnail: places-2-thumb.jpg
+image-category: places
+hero: places-2.jpg
 ---
 
 

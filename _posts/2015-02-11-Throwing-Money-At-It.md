@@ -2,6 +2,9 @@
 layout: post
 title: Throwing Money At It
 permalink: throwing-money-at-it
+thumbnail: places-63-thumb.jpg
+image-category: places
+hero: places-63.jpg
 ---
 
 

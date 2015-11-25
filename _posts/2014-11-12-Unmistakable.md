@@ -2,6 +2,9 @@
 layout: post
 title: Unmistakable
 permalink: unmistakable
+thumbnail: places-70-thumb.jpg
+image-category: places
+hero: places-70.jpg
 ---
 
 

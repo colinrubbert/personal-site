@@ -2,6 +2,9 @@
 layout: post
 title: Enjoy The Little Things
 permalink: enjoy-the-little-things
+thumbnail: places-48-thumb.jpg
+image-category: places
+hero: places-48.jpg
 ---
 
 

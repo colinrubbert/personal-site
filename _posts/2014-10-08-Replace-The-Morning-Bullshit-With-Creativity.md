@@ -2,6 +2,9 @@
 layout: post
 title: Replace The Morning Bullshit With Creativity
 permalink: replace-the-morning-bullshit-with-creativity
+thumbnail: places-55-thumb.jpg
+image-category: places
+hero: places-55.jpg
 ---
 
 

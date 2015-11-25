@@ -2,6 +2,9 @@
 layout: post
 title: Calm In The Chaos
 permalink: calm-in-the-chaos
+thumbnail: places-81-thumb.jpg
+image-category: places
+hero: places-81.jpg
 ---
 
 

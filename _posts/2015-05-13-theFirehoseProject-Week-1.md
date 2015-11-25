@@ -2,6 +2,9 @@
 layout: post
 title: The Firehose Project - Week 1
 permalink: thefirehoseproject-week-1
+thumbnail: places-38-thumb.jpg
+image-category: places
+hero: places-38.jpg
 ---
 
 

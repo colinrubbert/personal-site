@@ -2,6 +2,9 @@
 layout: post
 title: Hope Positivity and Unity
 permalink: hope-positivit-and-unity
+thumbnail: places-23-thumb.jpg
+image-category: places
+hero: places-23.jpg
 ---
 
 

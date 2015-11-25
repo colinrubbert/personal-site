@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Web Dev Weekly Roundup
+thumbnail: places-10-thumb.jpg
+image-category: places
+hero: places-10.jpg
 ---
 
 

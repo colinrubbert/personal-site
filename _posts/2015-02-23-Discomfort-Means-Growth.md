@@ -2,6 +2,9 @@
 layout: post
 title: Discomfort Means Growth
 permalink: discomfort-means-growth
+thumbnail: places-66-thumb.jpg
+image-category: places
+hero: places-66.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Checking Boxes
 permalink: checking-boxes
+thumbnail: places-52-thumb.jpg
+image-category: places
+hero: places-52.jpg
 ---
 
 

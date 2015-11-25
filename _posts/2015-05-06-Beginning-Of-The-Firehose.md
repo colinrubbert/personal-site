@@ -2,6 +2,9 @@
 layout: post
 title: Beginning of the Firehose
 permalink: beginning-of-the-firehose
+thumbnail: places-36-thumb.jpg
+image-category: places
+hero: places-36.jpg
 ---
 
 

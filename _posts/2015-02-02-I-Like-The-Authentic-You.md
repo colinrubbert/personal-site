@@ -2,6 +2,9 @@
 layout: post
 title: I Like The Authentic You
 permalink: i-like-the-authentic-you
+thumbnail: places-60-thumb.jpg
+image-category: places
+hero: places-60.jpg
 ---
 
 

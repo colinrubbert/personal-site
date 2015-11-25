@@ -2,6 +2,9 @@
 layout: post
 title: Web Dev Week 2 AF
 permalink: web-dev-week-2-af
+thumbnail: places-13-thumb.jpg
+image-category: places
+hero: places-13.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Path To Happiness
 permalink: path-to-happiness
+thumbnail: places-72-thumb.jpg
+image-category: places
+hero: places-72.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: We Are Our Thoughts
 permalink: we-are-our-thoughts
+thumbnail: places-71-thumb.jpg
+image-category: places
+hero: places-71.jpg
 ---
 
 

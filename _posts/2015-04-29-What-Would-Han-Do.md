@@ -2,6 +2,9 @@
 layout: post
 title: What Would Han Do?
 permalink: what-would-han-do
+thumbnail: places-34-thumb.jpg
+image-category: places
+hero: places-34.jpg
 ---
 
 

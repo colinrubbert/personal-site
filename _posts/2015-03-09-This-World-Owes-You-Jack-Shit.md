@@ -2,6 +2,9 @@
 layout: post
 title: This World Owes You Jack Shit
 permalink: this-world-owes-you-jack-shit
+thumbnail: places-47-thumb.jpg
+image-category: places
+hero: places-47.jpg
 ---
 
 

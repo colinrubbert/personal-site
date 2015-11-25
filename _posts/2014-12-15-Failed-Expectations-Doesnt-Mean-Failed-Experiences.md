@@ -2,6 +2,9 @@
 layout: post
 title: Failed Expectations Doesn't Mean Failed Experiences
 permalink: failed-expectations-doesnt-mean-failed-experiences
+thumbnail: places-79-thumb.jpg
+image-category: places
+hero: places-79.jpg
 ---
 
 

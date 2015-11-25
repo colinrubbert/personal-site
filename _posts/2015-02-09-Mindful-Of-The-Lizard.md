@@ -2,6 +2,9 @@
 layout: post
 title: Mindful of the Lizard
 permalink: mindful-of-the-lizard
+thumbnail: places-62-thumb.jpg
+image-category: places
+hero: places-62.jpg
 ---
 
 

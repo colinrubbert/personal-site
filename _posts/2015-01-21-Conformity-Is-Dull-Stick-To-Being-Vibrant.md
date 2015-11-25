@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Conformity Is Dull, Stick To Being Vibrant
-permalink: conformity-is-dull-stick-to-being-vibratn
+permalink: conformity-is-dull-stick-to-being-vibrant
+thumbnail: places-57-thumb.jpg
+image-category: places
+hero: places-57.jpg
 ---
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: Hobbies For Fun And Profit
 permalink: hobbies-for-fun-and-profit
+thumbnail: places-58-thumb.jpg
+image-category: places
+hero: places-58.jpg
 ---
 
 

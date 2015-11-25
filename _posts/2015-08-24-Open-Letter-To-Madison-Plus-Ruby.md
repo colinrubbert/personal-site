@@ -2,6 +2,9 @@
 layout: post
 title: Open Letter To Madison+ Ruby
 permalink: open-letter-to-madison-plus-ruby
+thumbnail: places-14-thumb.jpg
+image-category: places
+hero: places-14.jpg
 ---
 
 

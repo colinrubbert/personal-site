@@ -2,6 +2,9 @@
 layout: post
 title: Winter Rant
 permalink: winter-rant
+thumbnail: places-54-thumb.jpg
+image-category: places
+hero: places-54.jpg
 ---
 
 

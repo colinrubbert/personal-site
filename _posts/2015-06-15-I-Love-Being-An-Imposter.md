@@ -2,6 +2,9 @@
 layout: post
 title: I Love Being An Imposter
 permalink: i-love-being-an-imposter
+thumbnail: places-46-thumb.jpg
+image-category: places
+hero: places-46.jpg
 ---
 
 

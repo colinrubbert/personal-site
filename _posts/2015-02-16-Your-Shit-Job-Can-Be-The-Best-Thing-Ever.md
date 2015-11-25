@@ -2,6 +2,9 @@
 layout: post
 title: Your Shit Job Can Be The Best Thing Ever
 permalink: your-shit-job-can-be-the-best-thing-ever
+thumbnail: places-64-thumb.jpg
+image-category: places
+hero: places-64.jpg
 ---
 
 

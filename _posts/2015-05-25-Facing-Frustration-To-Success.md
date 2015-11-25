@@ -2,6 +2,9 @@
 layout: post
 title: Facing The Frustration To Success
 permalink: facing-the-frustration-to-success
+thumbnail: places-41-thumb.jpg
+image-category: places
+hero: places-41.jpg
 ---
 
 

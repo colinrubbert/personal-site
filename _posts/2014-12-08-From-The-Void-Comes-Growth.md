@@ -2,6 +2,9 @@
 layout: post
 title: From The Void Comes Growth
 permalink: from-the-void-comes-growth
+thumbnail: places-77-thumb.jpg
+image-category: places
+hero: places-77.jpg
 ---
 
 
