@@ -512,7 +512,6 @@ header {
     padding-top: 50px;
     clear: both; }
     .about-container .about-wrapper-2 .about-interests {
-      max-width: 200px;
       margin: 0 auto;
       text-align: center;
       font-size: 18px;
@@ -597,14 +596,16 @@ header {
       .contact .contact-container form input, .contact .contact-container form textarea {
         width: 100%;
         padding: 10px;
+        color: #333;
         border: 2px solid #6699CC;
         border-radius: 5px;
         box-sizing: border-box; }
         .contact .contact-container form input:focus, .contact .contact-container form textarea:focus {
+          color: #fff;
           outline: none;
           background: #FF9999;
           border-color: #FF9999; }
-      .contact .contact-container form [type="textarea"] {
+      .contact .contact-container form textarea {
         height: 10em; }
       .contact .contact-container form .submit-wrap {
         text-align: right; }

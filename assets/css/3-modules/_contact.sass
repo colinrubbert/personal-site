@@ -21,16 +21,18 @@
       input, textarea
         width: 100%
         padding: 10px
+        color: $text-dark-color
         border: 2px solid $primary-color
         border-radius: 5px
         box-sizing: border-box
 
         &:focus
+          color: $text-alt-color
           outline: none
           background: $accent-light-color
           border-color: $accent-light-color
 
-      [type="textarea"]
+      textarea
         height: 10em
 
       .submit-wrap
