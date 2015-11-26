@@ -751,7 +751,7 @@ header {
     flex-flow: row wrap;
     justify-content: space-around; }
     .articles-container .articles-list .articles-post-container {
-      padding: 20px;
+      padding: 0px 0px 20px 0px;
       text-align: center; }
       .articles-container .articles-list .articles-post-container .articles-image-container {
         display: flex;
