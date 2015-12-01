@@ -4,7 +4,7 @@ title: Coding Is Not Just Coding
 excerpt_seperator: '<!--more-->'
 thumbnail: ''
 image-category: places
-hero: places-20.jpg
+hero: places-41.jpg
 ---
 
 **Just like martial arts, cooking, travelling, photography,** and nearly everything else that we do there are more to our activities than the activities themselves. Recently I’ve been realizing there is more to coding than just coding. I’ve noticed that when I code I’ve been discovering things about myself and my thoughts.
