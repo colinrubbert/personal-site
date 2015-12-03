@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Firehose Project - Week 13
-permalink: thefirehoseproject-week-13
+permalink: blog/2015/8/6/thefirehoseproject-week-13
 thumbnail: places-30-thumb.jpg
 image-category: places
 hero: places-30.jpg

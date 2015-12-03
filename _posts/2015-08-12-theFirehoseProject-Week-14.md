@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Firehose Project - Week 14
-permalink: thefirehoseproject-week-14
+permalink: blog/2015/8/12/thefirehoseproject-week-14
 thumbnail: places-18-thumb.jpg
 image-category: places
 hero: places-18.jpg

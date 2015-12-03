@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beginning of the Firehose
-permalink: beginning-of-the-firehose
+permalink: blog/2015/5/6/beginning-of-the-firehose
 thumbnail: places-36-thumb.jpg
 image-category: places
 hero: places-36.jpg

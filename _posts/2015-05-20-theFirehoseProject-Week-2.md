@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Firehose Project - Week 2
-permalink: thefirehoseproject-week-2
+permalink: blog/2015/5/20/thefirehoseproject-week-2
 thumbnail: places-40-thumb.jpg
 image-category: places
 hero: places-40.jpg

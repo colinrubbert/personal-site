@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Firehose Project - Week 6
-permalink: thefirehoseproject-week-6
+permalink: blog/2015/6/17/thefirehoseproject-week-6
 thumbnail: places-47-thumb.jpg
 image-category: places
 hero: places-47.jpg
