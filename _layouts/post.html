@@ -17,6 +17,10 @@
 
     <div class="posts-wrapper">
       {{ content }}
+      <div class="comments">
+        <h3>Leave a Comment</h3>
+        {% include disqus_comments.html %}
+      </div>
     </div>
 
     {% include contact.html %}
