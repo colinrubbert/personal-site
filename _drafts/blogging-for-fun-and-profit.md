@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging For Fun and Profit
+title: Writing For Fun and Profit
 excerpt_seperator: '<!--more-->'
 thumbnail: ''
 image-category: places
