@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Writing For Fun and Profit
+permalink: writing-for-fun-and-profit
 excerpt_seperator: '<!--more-->'
 thumbnail: ''
 image-category: places
