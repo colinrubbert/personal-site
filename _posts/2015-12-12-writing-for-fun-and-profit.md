@@ -5,7 +5,7 @@ permalink: writing-for-fun-and-profit
 excerpt_seperator: '<!--more-->'
 thumbnail: ''
 image-category: places
-hero: places-21.jpg
+hero: places-38.jpg
 ---
 
 The other day a student had asked about how to get started blogging, if anyone could provide examples of non-technical technical blogs that she could emulate (or at least that was what I gleaned from the question/comment). I gave some advice as a response but it also got me thinking. I started to think about how I got started and how anyone could get started.
