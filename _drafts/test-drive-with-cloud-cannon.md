@@ -8,6 +8,6 @@ hero: places-80.jpg
 ---
 
 
-![](/uploads/versions/places-101---x----1280-853x---.jpg)
+![](/uploads/versions/places-131---x2-0-1277-851-1280-853x---.jpg)
 
 This is where some super awesome content will go!!
