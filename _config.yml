@@ -12,9 +12,9 @@ permalink: pretty
 host: 0.0.0.0
 port: 3000
 
-# sass:
-#   sass_dir: assets/css
-#   style: :nested
+sass:
+  sass_dir: assets/css
+  style: :nested
 
 
 paginate: 6
