@@ -2,7 +2,7 @@
 title: COLIN RUBBERT .COM
 email: colinrubbert@gmail.com
 description: The personal website of Colin Rubbert - Developer // Thinker // Creative
-baseurl: "/"
+# baseurl: "/"
 url: "http://colinrubbert.com"
 
 # Build settings
